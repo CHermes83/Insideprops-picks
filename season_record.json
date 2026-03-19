@@ -2,7 +2,7 @@
   "wins": 2,
   "losses": 1,
   "last_updated": "2026-03-17",
-  "note": "Auto-updated nightly by GitHub Actions bot. Edit wins/losses manually only if needed.",
+  "note": "Update wins/losses after each night. Add a row to results for every graded pick.",
   "results": [
     {
       "date": "Mar 17",
