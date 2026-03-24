@@ -1,35 +1,8 @@
 {
-  "wins": 2,
-  "losses": 1,
-  "last_updated": "2026-03-17",
-  "note": "Update wins/losses after each night. Add a row to results for every graded pick.",
-  "results": [
-    {
-      "date": "Mar 17",
-      "sport": "NBA",
-      "tier": "Free",
-      "pick": "OKC +0.0",
-      "line": "-110",
-      "actual": "OKC 113, ORL 108",
-      "result": "WIN"
-    },
-    {
-      "date": "Mar 17",
-      "sport": "NBA",
-      "tier": "Free",
-      "pick": "OVER 223.5 (OKC@ORL)",
-      "line": "-110",
-      "actual": "OKC 113, ORL 108 (221)",
-      "result": "LOSS"
-    },
-    {
-      "date": "Mar 17",
-      "sport": "NBA",
-      "tier": "Free",
-      "pick": "DET +0.0",
-      "line": "-110",
-      "actual": "DET 130, WSH 117",
-      "result": "WIN"
-    }
-  ]
+  "wins": 0,
+  "losses": 0,
+  "last_updated": "2026-03-23",
+  "tracking_start": "2026-03-23",
+  "note": "Clean slate — tracking individual legs starting from March 23, 2026. Each pick leg = 1 result.",
+  "results": []
 }
