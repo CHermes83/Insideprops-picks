@@ -1,35 +1,12 @@
 {
-  "wins": 2,
-  "losses": 1,
-  "last_updated": "2026-03-23",
-  "tracking_start": "2026-03-23",
-  "results": [
-    {
-      "date": "Mar 23, 2026",
-      "sport": "NBA",
-      "tier": "Scout",
-      "pick": "New York Knicks ML",
-      "line": "ML",
-      "actual": "W",
-      "result": "WIN"
-    },
-    {
-      "date": "Mar 23, 2026",
-      "sport": "NBA",
-      "tier": "Scout",
-      "pick": "Cleveland Cavaliers ML",
-      "line": "ML",
-      "actual": "W",
-      "result": "WIN"
-    },
-    {
-      "date": "Mar 23, 2026",
-      "sport": "NBA",
-      "tier": "Scout",
-      "pick": "Phoenix Suns ML",
-      "line": "ML",
-      "actual": "L",
-      "result": "LOSS"
-    }
-  ]
+    "wins": 2,
+    "losses": 1,
+    "last_updated": "2026-03-24",
+    "tracking_start": "2026-03-23",
+    "note": "Tracking individual pick legs starting March 23, 2026. Each pick leg = 1 result.",
+    "results": [
+          {"date": "2026-03-23", "pick": "Detroit Pistons ML (LAL @ DET)", "result": "WIN", "score": "DET 113 - LAL 110"},
+          {"date": "2026-03-23", "pick": "OVER 226.5 (LAL @ DET)", "result": "LOSS", "score": "Total: 223"},
+          {"date": "2026-03-23", "pick": "OKC Thunder ML (OKC @ PHI)", "result": "WIN", "score": "OKC 123 - PHI 103"}
+    ]
 }
