@@ -1,7 +1,9 @@
 {
-  "date": "March 24, 2026",
-  "status": "LIVE",
-  "record": "--",
-  "pct": "--",
-  "sgp": "4-leg"
+    "date": "March 24, 2026",
+    "status": "LIVE",
+    "record": "2-1",
+    "pct": "66.7",
+    "tracking_start": "March 23, 2026",
+    "sgp": "8-leg NUKE",
+    "yesterday": "2-1 (3/23)"
 }
