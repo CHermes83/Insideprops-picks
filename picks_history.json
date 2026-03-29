@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2026-03-23",
+    "pick": "Detroit Pistons ML (LAL @ DET)",
+    "sport": "nba",
+    "result": "WIN",
+    "score": "DET 113 - LAL 110"
+  },
+  {
+    "date": "2026-03-23",
+    "pick": "OVER 226.5 (LAL @ DET)",
+    "sport": "nba",
+    "result": "LOSS",
+    "score": "Total: 223"
+  },
+  {
+    "date": "2026-03-23",
+    "pick": "OKC Thunder ML (OKC @ PHI)",
+    "sport": "nba",
+    "result": "WIN",
+    "score": "OKC 123 - PHI 103"
+  }
+]
