@@ -1,23 +1,282 @@
 [
   {
     "date": "2026-03-23",
-    "pick": "Detroit Pistons ML (LAL @ DET)",
+    "pick": "Bobby Portis - To Score 10+ Points",
     "sport": "nba",
     "result": "WIN",
-    "score": "DET 113 - LAL 110"
+    "score": ""
   },
   {
     "date": "2026-03-23",
-    "pick": "OVER 226.5 (LAL @ DET)",
+    "pick": "Ryan Rollins - To Score 10+ Points",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-23",
+    "pick": "Kawhi Leonard - To Score 20+ Points",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-23",
+    "pick": "Brice Sensabaugh - To Score 15+ Points (TOR @ UTA)",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-23",
+    "pick": "Ace Bailey - To Score 15+ Points (TOR @ UTA)",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-23",
+    "pick": "Jalen Smith - To Score 5+ Points (HOU @ CHI)",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-23",
+    "pick": "Matas Buzelis - To Record 4+ Rebounds (HOU @ CHI)",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-23",
+    "pick": "Kevin Durant - 2+ Made Threes",
     "sport": "nba",
     "result": "LOSS",
-    "score": "Total: 223"
+    "score": ""
   },
   {
     "date": "2026-03-23",
-    "pick": "OKC Thunder ML (OKC @ PHI)",
+    "pick": "Cooper Flagg - To Score 15+ Points (GSW @ DAL)",
+    "sport": "nba",
+    "result": "LOSS",
+    "score": ""
+  },
+  {
+    "date": "2026-03-23",
+    "pick": "Donovan Clingan - To Score 15+ Points",
+    "sport": "nba",
+    "result": "LOSS",
+    "score": ""
+  },
+  {
+    "date": "2026-03-24",
+    "pick": "Grayson Allen - To Score 10+ Points",
     "sport": "nba",
     "result": "WIN",
-    "score": "OKC 123 - PHI 103"
+    "score": ""
+  },
+  {
+    "date": "2026-03-24",
+    "pick": "Christian Braun - To Record 2+ Assists",
+    "sport": "nba",
+    "result": "LOSS",
+    "score": ""
+  },
+  {
+    "date": "2026-03-24",
+    "pick": "Tim Hardaway Jr. - 2+ Made Threes",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-24",
+    "pick": "Jamal Murray Over 20.5 Alt Points",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-24",
+    "pick": "Christian Braun - 1+ Made Threes",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-24",
+    "pick": "Cam Johnson Over 9.5 Alt Points",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-24",
+    "pick": "Bruce Brown Over 4.5 Alt Points",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-24",
+    "pick": "Devin Booker Over 24.5 Alt Points",
+    "sport": "nba",
+    "result": "LOSS",
+    "score": ""
+  },
+  {
+    "date": "2026-03-24",
+    "pick": "Nikola Jokic - Triple Double",
+    "sport": "nba",
+    "result": "LOSS",
+    "score": ""
+  },
+  {
+    "date": "2026-03-24",
+    "pick": "Nikola Jokic Over 20.5 Alt Points",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-24",
+    "pick": "Nikola Jokic Over 11.5 Rebounds",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-24",
+    "pick": "Christian Braun Over 3.5 Rebounds",
+    "sport": "nba",
+    "result": "LOSS",
+    "score": ""
+  },
+  {
+    "date": "2026-03-24",
+    "pick": "Jamal Murray Over 5.5 Assists",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-24",
+    "pick": "Collin Gillespie - 2+ Made Threes",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-24",
+    "pick": "Jamal Murray - 2+ Made Threes",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-27",
+    "pick": "Miami Marlins - Moneyline",
+    "sport": "mlb",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-27",
+    "pick": "Sandy Alcantara - 6+ Strikeouts",
+    "sport": "mlb",
+    "result": "LOSS",
+    "score": ""
+  },
+  {
+    "date": "2026-03-27",
+    "pick": "Aaron Judge - To Hit a Home Run (NYY @ SF)",
+    "sport": "mlb",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-27",
+    "pick": "Yordan Alvarez - To Hit a Home Run (LAA @ HOU)",
+    "sport": "mlb",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-29",
+    "pick": "Denver Nuggets - Moneyline",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-29",
+    "pick": "Peyton Watson - 1+ Made Threes",
+    "sport": "nba",
+    "result": "WIN",
+    "score": "Actual: 2"
+  },
+  {
+    "date": "2026-03-29",
+    "pick": "Christian Braun - 1+ Made Threes",
+    "sport": "nba",
+    "result": "LOSS",
+    "score": "Actual: 0"
+  },
+  {
+    "date": "2026-03-29",
+    "pick": "Tim Hardaway Jr. - 2+ Made Threes",
+    "sport": "nba",
+    "result": "WIN",
+    "score": "Actual: 4"
+  },
+  {
+    "date": "2026-03-29",
+    "pick": "Jamal Murray - 2+ Made Threes",
+    "sport": "nba",
+    "result": "WIN",
+    "score": "Actual: 2"
+  },
+  {
+    "date": "2026-03-29",
+    "pick": "Nikola Jokic Over 21.5 Alt Points",
+    "sport": "nba",
+    "result": "WIN",
+    "score": "Actual: 25"
+  },
+  {
+    "date": "2026-03-29",
+    "pick": "Jamal Murray Under 30.5 Alt Points",
+    "sport": "nba",
+    "result": "WIN",
+    "score": "Actual: 20"
+  },
+  {
+    "date": "2026-03-29",
+    "pick": "Nikola Jokic - Triple Double",
+    "sport": "nba",
+    "result": "LOSS",
+    "score": ""
+  },
+  {
+    "date": "2026-03-29",
+    "pick": "Cam Johnson Over 1.5 Made Threes",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
+  },
+  {
+    "date": "2026-03-29",
+    "pick": "Draymond Green Over 5.5 Alt Points",
+    "sport": "nba",
+    "result": "WIN",
+    "score": "Actual: 13"
+  },
+  {
+    "date": "2026-03-29",
+    "pick": "Tim Hardaway Jr. Over 12.5 Alt Points",
+    "sport": "nba",
+    "result": "WIN",
+    "score": ""
   }
 ]
