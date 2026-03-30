@@ -1,13 +1,8 @@
 {
-    "wins": 2,
-    "losses": 1,
-    "pushes": 0,
-    "last_updated": "2026-03-29",
-    "tracking_start": "2026-03-23",
-    "note": "Tracking individual pick legs starting March 23, 2026. Automation gap March 24-28 (no picks tracked). Auto-updating via check_results.py from March 29 forward.",
-    "results": [
-        {"date": "2026-03-23", "pick": "Detroit Pistons ML (LAL @ DET)", "result": "WIN", "score": "DET 113 - LAL 110", "sport": "nba"},
-        {"date": "2026-03-23", "pick": "OVER 226.5 (LAL @ DET)", "result": "LOSS", "score": "Total: 223", "sport": "nba"},
-        {"date": "2026-03-23", "pick": "OKC Thunder ML (OKC @ PHI)", "result": "WIN", "score": "OKC 123 - PHI 103", "sport": "nba"}
-    ]
+  "wins": 30,
+  "losses": 10,
+  "pushes": 0,
+  "last_updated": "2026-03-29",
+  "tracking_start": "2026-03-23",
+  "note": "Individual pick leg tracking from March 23, 2026. NBA props, MLB props, and SGPs. Auto-updating via check_results.py going forward."
 }
