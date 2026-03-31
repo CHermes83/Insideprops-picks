@@ -1,8 +1,8 @@
 {
-  "wins": 30,
-  "losses": 10,
-  "pushes": 0,
-  "last_updated": "2026-03-30",
-  "tracking_start": "2026-03-23",
-  "note": "Individual pick leg tracking from March 23, 2026. NBA props, MLB props, and SGPs. Auto-updating via check_results.py going forward."
+    "wins": 36,
+    "losses": 16,
+    "pushes": 0,
+    "last_updated": "2026-03-31",
+    "tracking_start": "2026-03-23",
+    "note": "Individual pick leg tracking from March 23, 2026. NBA props, MLB props, and SGPs. Auto-updating via check_results.py going forward."
 }

@@ -283,7 +283,7 @@
     "date": "2026-03-30",
     "pick": "Cleveland Cavaliers - Moneyline",
     "sport": "nba",
-    "result": "",
+    "result": "W",
     "score": "",
     "tier": "HIGH"
   },
@@ -291,7 +291,7 @@
     "date": "2026-03-30",
     "pick": "Minnesota Timberwolves - Moneyline",
     "sport": "nba",
-    "result": "",
+    "result": "W",
     "score": "",
     "tier": "HIGH"
   },
@@ -299,7 +299,7 @@
     "date": "2026-03-30",
     "pick": "Boston Celtics - Moneyline",
     "sport": "nba",
-    "result": "",
+    "result": "L",
     "score": "",
     "tier": "HIGH"
   },
@@ -307,7 +307,7 @@
     "date": "2026-03-30",
     "pick": "Los Angeles Lakers - Moneyline",
     "sport": "nba",
-    "result": "",
+    "result": "W",
     "score": "",
     "tier": "HIGH"
   },
@@ -315,7 +315,7 @@
     "date": "2026-03-30",
     "pick": "Donovan Mitchell Over 24.5 PTS",
     "sport": "nba",
-    "result": "",
+    "result": "W",
     "score": "",
     "tier": "HIGH"
   },
@@ -323,7 +323,7 @@
     "date": "2026-03-30",
     "pick": "Anthony Edwards Over 25.5 PTS",
     "sport": "nba",
-    "result": "",
+    "result": "L",
     "score": "",
     "tier": "HIGH"
   },
@@ -331,7 +331,7 @@
     "date": "2026-03-30",
     "pick": "Victor Wembanyama Over 20.5 PTS",
     "sport": "nba",
-    "result": "",
+    "result": "W",
     "score": "",
     "tier": "MID"
   },
@@ -339,7 +339,7 @@
     "date": "2026-03-30",
     "pick": "LeBron James Over 22.5 PTS",
     "sport": "nba",
-    "result": "",
+    "result": "L",
     "score": "",
     "tier": "MID"
   },
@@ -347,7 +347,7 @@
     "date": "2026-03-30",
     "pick": "Jayson Tatum Over 24.5 PTS",
     "sport": "nba",
-    "result": "",
+    "result": "L",
     "score": "",
     "tier": "MID"
   },
@@ -355,7 +355,7 @@
     "date": "2026-03-30",
     "pick": "Bam Adebayo Over 14.5 PTS + 6.5 REB",
     "sport": "nba",
-    "result": "",
+    "result": "W",
     "score": "",
     "tier": "MID"
   },
@@ -363,7 +363,7 @@
     "date": "2026-03-30",
     "pick": "Rudy Gobert Over 11.5 REB",
     "sport": "nba",
-    "result": "",
+    "result": "L",
     "score": "",
     "tier": "MID"
   },
@@ -371,8 +371,32 @@
     "date": "2026-03-30",
     "pick": "Trae Young Over 8.5 AST",
     "sport": "nba",
-    "result": "",
+    "result": "L",
     "score": "",
     "tier": "MID"
   }
+,
+  {"date":"2026-03-31","pick":"Charlotte Hornets - Moneyline","sport":"nba","result":"","score":"","tier":"HIGH"},
+  {"date":"2026-03-31","pick":"Los Angeles Clippers - Moneyline","sport":"nba","result":"","score":"","tier":"HIGH"},
+  {"date":"2026-03-31","pick":"Detroit Pistons - Moneyline","sport":"nba","result":"","score":"","tier":"HIGH"},
+  {"date":"2026-03-31","pick":"Los Angeles Lakers - Moneyline","sport":"nba","result":"","score":"","tier":"HIGH"},
+  {"date":"2026-03-31","pick":"LaMelo Ball Over 27.5 PTS","sport":"nba","result":"","score":"","tier":"HIGH"},
+  {"date":"2026-03-31","pick":"Cade Cunningham Over 23.5 PTS","sport":"nba","result":"","score":"","tier":"HIGH"},
+  {"date":"2026-03-31","pick":"Jalen Brunson Over 25.5 PTS","sport":"nba","result":"","score":"","tier":"HIGH"},
+  {"date":"2026-03-31","pick":"Kyrie Irving Over 23.5 PTS","sport":"nba","result":"","score":"","tier":"MID"},
+  {"date":"2026-03-31","pick":"Alperen Sengun Over 18.5 PTS","sport":"nba","result":"","score":"","tier":"MID"},
+  {"date":"2026-03-31","pick":"Damian Lillard Over 4.5 3PM","sport":"nba","result":"","score":"","tier":"MID"},
+  {"date":"2026-03-31","pick":"James Harden Over 7.5 AST","sport":"nba","result":"","score":"","tier":"MID"},
+  {"date":"2026-03-31","pick":"Norman Powell Over 2.5 3PM","sport":"nba","result":"","score":"","tier":"MID"}
+,
+  {"date":"2026-03-31","pick":"Los Angeles Dodgers - Moneyline (-280)","sport":"mlb","result":"","score":"","tier":"HIGH"},
+  {"date":"2026-03-31","pick":"Philadelphia Phillies - Moneyline (-194)","sport":"mlb","result":"","score":"","tier":"HIGH"},
+  {"date":"2026-03-31","pick":"Toronto Blue Jays - Moneyline (-286)","sport":"mlb","result":"","score":"","tier":"HIGH"},
+  {"date":"2026-03-31","pick":"Shohei Ohtani Over 7.5 Strikeouts","sport":"mlb","result":"","score":"","tier":"HIGH"},
+  {"date":"2026-03-31","pick":"Bubba Chandler Over 5.5 Strikeouts","sport":"mlb","result":"","score":"","tier":"MID"},
+  {"date":"2026-03-31","pick":"Freddie Freeman Over 1.5 Total Bases","sport":"mlb","result":"","score":"","tier":"HIGH"},
+  {"date":"2026-03-31","pick":"Yordan Alvarez Over 1.5 Total Bases","sport":"mlb","result":"","score":"","tier":"MID"},
+  {"date":"2026-03-31","pick":"Ronald Acuna Jr. Over 1.5 Total Bases","sport":"mlb","result":"","score":"","tier":"MID"},
+  {"date":"2026-03-31","pick":"TOR @ COL Over 10.5 Total Runs","sport":"mlb","result":"","score":"","tier":"MID"},
+  {"date":"2026-03-31","pick":"LAD @ CLE Under 8.5 Total Runs","sport":"mlb","result":"","score":"","tier":"MID"}
 ]
