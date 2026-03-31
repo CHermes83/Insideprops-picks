@@ -278,5 +278,101 @@
     "sport": "nba",
     "result": "WIN",
     "score": ""
+  },
+  {
+    "date": "2026-03-30",
+    "pick": "Cleveland Cavaliers - Moneyline",
+    "sport": "nba",
+    "result": "",
+    "score": "",
+    "tier": "HIGH"
+  },
+  {
+    "date": "2026-03-30",
+    "pick": "Minnesota Timberwolves - Moneyline",
+    "sport": "nba",
+    "result": "",
+    "score": "",
+    "tier": "HIGH"
+  },
+  {
+    "date": "2026-03-30",
+    "pick": "Boston Celtics - Moneyline",
+    "sport": "nba",
+    "result": "",
+    "score": "",
+    "tier": "HIGH"
+  },
+  {
+    "date": "2026-03-30",
+    "pick": "Los Angeles Lakers - Moneyline",
+    "sport": "nba",
+    "result": "",
+    "score": "",
+    "tier": "HIGH"
+  },
+  {
+    "date": "2026-03-30",
+    "pick": "Donovan Mitchell Over 24.5 PTS",
+    "sport": "nba",
+    "result": "",
+    "score": "",
+    "tier": "HIGH"
+  },
+  {
+    "date": "2026-03-30",
+    "pick": "Anthony Edwards Over 25.5 PTS",
+    "sport": "nba",
+    "result": "",
+    "score": "",
+    "tier": "HIGH"
+  },
+  {
+    "date": "2026-03-30",
+    "pick": "Victor Wembanyama Over 20.5 PTS",
+    "sport": "nba",
+    "result": "",
+    "score": "",
+    "tier": "MID"
+  },
+  {
+    "date": "2026-03-30",
+    "pick": "LeBron James Over 22.5 PTS",
+    "sport": "nba",
+    "result": "",
+    "score": "",
+    "tier": "MID"
+  },
+  {
+    "date": "2026-03-30",
+    "pick": "Jayson Tatum Over 24.5 PTS",
+    "sport": "nba",
+    "result": "",
+    "score": "",
+    "tier": "MID"
+  },
+  {
+    "date": "2026-03-30",
+    "pick": "Bam Adebayo Over 14.5 PTS + 6.5 REB",
+    "sport": "nba",
+    "result": "",
+    "score": "",
+    "tier": "MID"
+  },
+  {
+    "date": "2026-03-30",
+    "pick": "Rudy Gobert Over 11.5 REB",
+    "sport": "nba",
+    "result": "",
+    "score": "",
+    "tier": "MID"
+  },
+  {
+    "date": "2026-03-30",
+    "pick": "Trae Young Over 8.5 AST",
+    "sport": "nba",
+    "result": "",
+    "score": "",
+    "tier": "MID"
   }
 ]
