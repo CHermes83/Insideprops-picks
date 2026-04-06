@@ -1,402 +1,73 @@
 [
-  {
-    "date": "2026-03-23",
-    "pick": "Bobby Portis - To Score 10+ Points",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-23",
-    "pick": "Ryan Rollins - To Score 10+ Points",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-23",
-    "pick": "Kawhi Leonard - To Score 20+ Points",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-23",
-    "pick": "Brice Sensabaugh - To Score 15+ Points (TOR @ UTA)",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-23",
-    "pick": "Ace Bailey - To Score 15+ Points (TOR @ UTA)",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-23",
-    "pick": "Jalen Smith - To Score 5+ Points (HOU @ CHI)",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-23",
-    "pick": "Matas Buzelis - To Record 4+ Rebounds (HOU @ CHI)",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-23",
-    "pick": "Kevin Durant - 2+ Made Threes",
-    "sport": "nba",
-    "result": "LOSS",
-    "score": ""
-  },
-  {
-    "date": "2026-03-23",
-    "pick": "Cooper Flagg - To Score 15+ Points (GSW @ DAL)",
-    "sport": "nba",
-    "result": "LOSS",
-    "score": ""
-  },
-  {
-    "date": "2026-03-23",
-    "pick": "Donovan Clingan - To Score 15+ Points",
-    "sport": "nba",
-    "result": "LOSS",
-    "score": ""
-  },
-  {
-    "date": "2026-03-24",
-    "pick": "Grayson Allen - To Score 10+ Points",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-24",
-    "pick": "Christian Braun - To Record 2+ Assists",
-    "sport": "nba",
-    "result": "LOSS",
-    "score": ""
-  },
-  {
-    "date": "2026-03-24",
-    "pick": "Tim Hardaway Jr. - 2+ Made Threes",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-24",
-    "pick": "Jamal Murray Over 20.5 Alt Points",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-24",
-    "pick": "Christian Braun - 1+ Made Threes",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-24",
-    "pick": "Cam Johnson Over 9.5 Alt Points",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-24",
-    "pick": "Bruce Brown Over 4.5 Alt Points",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-24",
-    "pick": "Devin Booker Over 24.5 Alt Points",
-    "sport": "nba",
-    "result": "LOSS",
-    "score": ""
-  },
-  {
-    "date": "2026-03-24",
-    "pick": "Nikola Jokic - Triple Double",
-    "sport": "nba",
-    "result": "LOSS",
-    "score": ""
-  },
-  {
-    "date": "2026-03-24",
-    "pick": "Nikola Jokic Over 20.5 Alt Points",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-24",
-    "pick": "Nikola Jokic Over 11.5 Rebounds",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-24",
-    "pick": "Christian Braun Over 3.5 Rebounds",
-    "sport": "nba",
-    "result": "LOSS",
-    "score": ""
-  },
-  {
-    "date": "2026-03-24",
-    "pick": "Jamal Murray Over 5.5 Assists",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-24",
-    "pick": "Collin Gillespie - 2+ Made Threes",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-24",
-    "pick": "Jamal Murray - 2+ Made Threes",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-27",
-    "pick": "Miami Marlins - Moneyline",
-    "sport": "mlb",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-27",
-    "pick": "Sandy Alcantara - 6+ Strikeouts",
-    "sport": "mlb",
-    "result": "LOSS",
-    "score": ""
-  },
-  {
-    "date": "2026-03-27",
-    "pick": "Aaron Judge - To Hit a Home Run (NYY @ SF)",
-    "sport": "mlb",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-27",
-    "pick": "Yordan Alvarez - To Hit a Home Run (LAA @ HOU)",
-    "sport": "mlb",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-29",
-    "pick": "Denver Nuggets - Moneyline",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-29",
-    "pick": "Peyton Watson - 1+ Made Threes",
-    "sport": "nba",
-    "result": "WIN",
-    "score": "Actual: 2"
-  },
-  {
-    "date": "2026-03-29",
-    "pick": "Christian Braun - 1+ Made Threes",
-    "sport": "nba",
-    "result": "LOSS",
-    "score": "Actual: 0"
-  },
-  {
-    "date": "2026-03-29",
-    "pick": "Tim Hardaway Jr. - 2+ Made Threes",
-    "sport": "nba",
-    "result": "WIN",
-    "score": "Actual: 4"
-  },
-  {
-    "date": "2026-03-29",
-    "pick": "Jamal Murray - 2+ Made Threes",
-    "sport": "nba",
-    "result": "WIN",
-    "score": "Actual: 2"
-  },
-  {
-    "date": "2026-03-29",
-    "pick": "Nikola Jokic Over 21.5 Alt Points",
-    "sport": "nba",
-    "result": "WIN",
-    "score": "Actual: 25"
-  },
-  {
-    "date": "2026-03-29",
-    "pick": "Jamal Murray Under 30.5 Alt Points",
-    "sport": "nba",
-    "result": "WIN",
-    "score": "Actual: 20"
-  },
-  {
-    "date": "2026-03-29",
-    "pick": "Nikola Jokic - Triple Double",
-    "sport": "nba",
-    "result": "LOSS",
-    "score": ""
-  },
-  {
-    "date": "2026-03-29",
-    "pick": "Cam Johnson Over 1.5 Made Threes",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-29",
-    "pick": "Draymond Green Over 5.5 Alt Points",
-    "sport": "nba",
-    "result": "WIN",
-    "score": "Actual: 13"
-  },
-  {
-    "date": "2026-03-29",
-    "pick": "Tim Hardaway Jr. Over 12.5 Alt Points",
-    "sport": "nba",
-    "result": "WIN",
-    "score": ""
-  },
-  {
-    "date": "2026-03-30",
-    "pick": "Cleveland Cavaliers - Moneyline",
-    "sport": "nba",
-    "result": "W",
-    "score": "",
-    "tier": "HIGH"
-  },
-  {
-    "date": "2026-03-30",
-    "pick": "Minnesota Timberwolves - Moneyline",
-    "sport": "nba",
-    "result": "W",
-    "score": "",
-    "tier": "HIGH"
-  },
-  {
-    "date": "2026-03-30",
-    "pick": "Boston Celtics - Moneyline",
-    "sport": "nba",
-    "result": "L",
-    "score": "",
-    "tier": "HIGH"
-  },
-  {
-    "date": "2026-03-30",
-    "pick": "Los Angeles Lakers - Moneyline",
-    "sport": "nba",
-    "result": "W",
-    "score": "",
-    "tier": "HIGH"
-  },
-  {
-    "date": "2026-03-30",
-    "pick": "Donovan Mitchell Over 24.5 PTS",
-    "sport": "nba",
-    "result": "W",
-    "score": "",
-    "tier": "HIGH"
-  },
-  {
-    "date": "2026-03-30",
-    "pick": "Anthony Edwards Over 25.5 PTS",
-    "sport": "nba",
-    "result": "L",
-    "score": "",
-    "tier": "HIGH"
-  },
-  {
-    "date": "2026-03-30",
-    "pick": "Victor Wembanyama Over 20.5 PTS",
-    "sport": "nba",
-    "result": "W",
-    "score": "",
-    "tier": "MID"
-  },
-  {
-    "date": "2026-03-30",
-    "pick": "LeBron James Over 22.5 PTS",
-    "sport": "nba",
-    "result": "L",
-    "score": "",
-    "tier": "MID"
-  },
-  {
-    "date": "2026-03-30",
-    "pick": "Jayson Tatum Over 24.5 PTS",
-    "sport": "nba",
-    "result": "L",
-    "score": "",
-    "tier": "MID"
-  },
-  {
-    "date": "2026-03-30",
-    "pick": "Bam Adebayo Over 14.5 PTS + 6.5 REB",
-    "sport": "nba",
-    "result": "W",
-    "score": "",
-    "tier": "MID"
-  },
-  {
-    "date": "2026-03-30",
-    "pick": "Rudy Gobert Over 11.5 REB",
-    "sport": "nba",
-    "result": "L",
-    "score": "",
-    "tier": "MID"
-  },
-  {
-    "date": "2026-03-30",
-    "pick": "Trae Young Over 8.5 AST",
-    "sport": "nba",
-    "result": "L",
-    "score": "",
-    "tier": "MID"
-  }
-,
-  {"date":"2026-03-31","pick":"Charlotte Hornets - Moneyline","sport":"nba","result":"","score":"","tier":"HIGH"},
-  {"date":"2026-03-31","pick":"Los Angeles Clippers - Moneyline","sport":"nba","result":"","score":"","tier":"HIGH"},
-  {"date":"2026-03-31","pick":"Detroit Pistons - Moneyline","sport":"nba","result":"","score":"","tier":"HIGH"},
-  {"date":"2026-03-31","pick":"Los Angeles Lakers - Moneyline","sport":"nba","result":"","score":"","tier":"HIGH"},
-  {"date":"2026-03-31","pick":"LaMelo Ball Over 27.5 PTS","sport":"nba","result":"","score":"","tier":"HIGH"},
-  {"date":"2026-03-31","pick":"Cade Cunningham Over 23.5 PTS","sport":"nba","result":"","score":"","tier":"HIGH"},
-  {"date":"2026-03-31","pick":"Jalen Brunson Over 25.5 PTS","sport":"nba","result":"","score":"","tier":"HIGH"},
-  {"date":"2026-03-31","pick":"Kyrie Irving Over 23.5 PTS","sport":"nba","result":"","score":"","tier":"MID"},
-  {"date":"2026-03-31","pick":"Alperen Sengun Over 18.5 PTS","sport":"nba","result":"","score":"","tier":"MID"},
-  {"date":"2026-03-31","pick":"Damian Lillard Over 4.5 3PM","sport":"nba","result":"","score":"","tier":"MID"},
-  {"date":"2026-03-31","pick":"James Harden Over 7.5 AST","sport":"nba","result":"","score":"","tier":"MID"},
-  {"date":"2026-03-31","pick":"Norman Powell Over 2.5 3PM","sport":"nba","result":"","score":"","tier":"MID"}
-,
-  {"date":"2026-03-31","pick":"Los Angeles Dodgers - Moneyline (-280)","sport":"mlb","result":"","score":"","tier":"HIGH"},
-  {"date":"2026-03-31","pick":"Philadelphia Phillies - Moneyline (-194)","sport":"mlb","result":"","score":"","tier":"HIGH"},
-  {"date":"2026-03-31","pick":"Toronto Blue Jays - Moneyline (-286)","sport":"mlb","result":"","score":"","tier":"HIGH"},
-  {"date":"2026-03-31","pick":"Shohei Ohtani Over 7.5 Strikeouts","sport":"mlb","result":"","score":"","tier":"HIGH"},
-  {"date":"2026-03-31","pick":"Bubba Chandler Over 5.5 Strikeouts","sport":"mlb","result":"","score":"","tier":"MID"},
-  {"date":"2026-03-31","pick":"Freddie Freeman Over 1.5 Total Bases","sport":"mlb","result":"","score":"","tier":"HIGH"},
-  {"date":"2026-03-31","pick":"Yordan Alvarez Over 1.5 Total Bases","sport":"mlb","result":"","score":"","tier":"MID"},
-  {"date":"2026-03-31","pick":"Ronald Acuna Jr. Over 1.5 Total Bases","sport":"mlb","result":"","score":"","tier":"MID"},
-  {"date":"2026-03-31","pick":"TOR @ COL Over 10.5 Total Runs","sport":"mlb","result":"","score":"","tier":"MID"},
-  {"date":"2026-03-31","pick":"LAD @ CLE Under 8.5 Total Runs","sport":"mlb","result":"","score":"","tier":"MID"}
+  {"date":"2026-03-23","pick":"Bobby Portis - To Score 10+ Points","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-23","pick":"Ryan Rollins - To Score 10+ Points","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-23","pick":"Kawhi Leonard - To Score 20+ Points","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-23","pick":"Brice Sensabaugh - To Score 15+ Points (TOR @ UTA)","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-23","pick":"Ace Bailey - To Score 15+ Points (TOR @ UTA)","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-23","pick":"Jalen Smith - To Score 5+ Points (HOU @ CHI)","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-23","pick":"Matas Buzelis - To Record 4+ Rebounds (HOU @ CHI)","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-23","pick":"New Orleans Pelicans - Moneyline","sport":"nba","result":"LOSS","score":""},
+  {"date":"2026-03-23","pick":"Sacramento Kings - Moneyline","sport":"nba","result":"LOSS","score":""},
+  {"date":"2026-03-23","pick":"Phoenix Suns - Moneyline","sport":"nba","result":"LOSS","score":""},
+  {"date":"2026-03-24","pick":"Boston Celtics - Moneyline","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-24","pick":"Denver Nuggets - Moneyline","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-24","pick":"Memphis Grizzlies - Moneyline","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-24","pick":"Indiana Pacers - Moneyline","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-24","pick":"Nikola Jokic Over 21.5 PTS","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-24","pick":"Jayson Tatum Over 24.5 PTS","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-24","pick":"Ja Morant Over 22.5 PTS","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-24","pick":"Tyrese Haliburton Over 7.5 AST","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-24","pick":"Nikola Jokic Over 11.5 REB","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-24","pick":"Bam Adebayo Over 8.5 REB","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-24","pick":"Jayson Tatum Over 2.5 3PM","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-24","pick":"Oklahoma City Thunder - Moneyline","sport":"nba","result":"LOSS","score":""},
+  {"date":"2026-03-24","pick":"Atlanta Hawks - Moneyline","sport":"nba","result":"LOSS","score":""},
+  {"date":"2026-03-24","pick":"Trae Young Over 8.5 AST","sport":"nba","result":"LOSS","score":""},
+  {"date":"2026-03-24","pick":"LaMelo Ball Over 26.5 PTS","sport":"nba","result":"LOSS","score":""},
+  {"date":"2026-03-27","pick":"Golden State Warriors - Moneyline","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-27","pick":"Milwaukee Bucks - Moneyline","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-27","pick":"Stephen Curry Over 24.5 PTS","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-27","pick":"Miami Heat - Moneyline","sport":"nba","result":"LOSS","score":""},
+  {"date":"2026-03-29","pick":"Denver Nuggets - Moneyline","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-29","pick":"Peyton Watson - 1+ Made Threes","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-29","pick":"Tim Hardaway Jr. - 2+ Made Threes","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-29","pick":"Jamal Murray - 2+ Made Threes","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-29","pick":"Nikola Jokic Over 21.5 Alt Points","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-29","pick":"Jamal Murray Under 30.5 Alt Points","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-29","pick":"Cam Johnson Over 1.5 Made Threes","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-29","pick":"Draymond Green Over 5.5 Alt Points","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-29","pick":"Tim Hardaway Jr. Over 12.5 Alt Points","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-29","pick":"Christian Braun - 1+ Made Threes","sport":"nba","result":"LOSS","score":""},
+  {"date":"2026-03-29","pick":"Nikola Jokic - Triple Double","sport":"nba","result":"LOSS","score":""},
+  {"date":"2026-03-30","pick":"Cleveland Cavaliers - Moneyline","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-30","pick":"Minnesota Timberwolves - Moneyline","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-30","pick":"Los Angeles Lakers - Moneyline","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-30","pick":"Donovan Mitchell Over 24.5 PTS","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-30","pick":"Victor Wembanyama Over 20.5 PTS","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-30","pick":"Bam Adebayo Over 14.5 PTS + 6.5 REB","sport":"nba","result":"WIN","score":""},
+  {"date":"2026-03-30","pick":"Boston Celtics - Moneyline","sport":"nba","result":"LOSS","score":""},
+  {"date":"2026-03-30","pick":"Anthony Edwards Over 25.5 PTS","sport":"nba","result":"LOSS","score":""},
+  {"date":"2026-03-30","pick":"Luka Doncic Over 22.5 PTS","sport":"nba","result":"LOSS","score":""},
+  {"date":"2026-03-30","pick":"Jayson Tatum Over 24.5 PTS","sport":"nba","result":"LOSS","score":""},
+  {"date":"2026-03-30","pick":"Rudy Gobert Over 11.5 REB","sport":"nba","result":"LOSS","score":""},
+  {"date":"2026-03-30","pick":"Trae Young Over 8.5 AST","sport":"nba","result":"LOSS","score":""},
+  {"date":"2026-03-31","pick":"Charlotte Hornets - Moneyline","sport":"nba","result":"WIN","score":"CHA 117-86 BKN"},
+  {"date":"2026-03-31","pick":"Detroit Pistons - Moneyline","sport":"nba","result":"WIN","score":"DET 127-116 TOR"},
+  {"date":"2026-03-31","pick":"Los Angeles Lakers - Moneyline","sport":"nba","result":"WIN","score":"LAL 127-113 CLE"},
+  {"date":"2026-03-31","pick":"Yordan Alvarez Over 1.5 Total Bases","sport":"mlb","result":"WIN","score":"2H 1HR = 5TB"},
+  {"date":"2026-03-31","pick":"Bubba Chandler Over 5.5 Strikeouts","sport":"mlb","result":"WIN","score":"6 K in 4.1 IP"},
+  {"date":"2026-03-31","pick":"Los Angeles Dodgers - Moneyline (-280)","sport":"mlb","result":"WIN","score":"LAD 4-1 CLE"},
+  {"date":"2026-03-31","pick":"Philadelphia Phillies - Moneyline (-194)","sport":"mlb","result":"WIN","score":"PHI 3-2 WSH"},
+  {"date":"2026-03-31","pick":"Toronto Blue Jays - Moneyline (-286)","sport":"mlb","result":"WIN","score":"TOR 5-1 COL"},
+  {"date":"2026-03-31","pick":"LAD @ CLE Under 8.5 Total Runs","sport":"mlb","result":"WIN","score":"5 total runs"},
+  {"date":"2026-03-31","pick":"Los Angeles Clippers - Moneyline","sport":"nba","result":"LOSS","score":"POR 114-104 LAC"},
+  {"date":"2026-03-31","pick":"LaMelo Ball Over 27.5 PTS","sport":"nba","result":"LOSS","score":"14 PTS"},
+  {"date":"2026-03-31","pick":"Jalen Brunson Over 25.5 PTS","sport":"nba","result":"LOSS","score":"12 PTS"},
+  {"date":"2026-03-31","pick":"Alperen Sengun Over 18.5 PTS","sport":"nba","result":"LOSS","score":"13 PTS"},
+  {"date":"2026-03-31","pick":"Shohei Ohtani Over 7.5 Strikeouts","sport":"mlb","result":"LOSS","score":"6 K in 6.0 IP"},
+  {"date":"2026-03-31","pick":"Freddie Freeman Over 1.5 Total Bases","sport":"mlb","result":"LOSS","score":"1H (single) = 1 TB"},
+  {"date":"2026-03-31","pick":"Ronald Acuna Jr. Over 1.5 Total Bases","sport":"mlb","result":"LOSS","score":"0-4, 0 TB"},
+  {"date":"2026-03-31","pick":"TOR @ COL Over 10.5 Total Runs","sport":"mlb","result":"LOSS","score":"6 total runs"},
+  {"date":"2026-04-06","pick":"Boston Celtics - Moneyline","sport":"nba","result":"","score":""},
+  {"date":"2026-04-06","pick":"Jayson Tatum Over 23.0 PTS","sport":"nba","result":"","score":""}
 ]
