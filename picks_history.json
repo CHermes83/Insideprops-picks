@@ -2263,5 +2263,1245 @@
     "tier": "MEDIUM",
     "result": "PENDING",
     "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Cleveland Cavaliers ML",
+    "sport": "NBA",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "OVER 236.5",
+    "sport": "NBA",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Donovan Mitchell OVER 22.5 PTS",
+    "sport": "NBA",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "CJ McCollum OVER 16.5 PTS",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Jarrett Allen OVER 9.0 REB",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "James Harden OVER 7.5 AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "James Harden OVER 2.0 3PM",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "CJ McCollum OVER 4.0 AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Donovan Mitchell OVER 29.0 PTS+AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Evan Mobley OVER 1.5 BLK",
+    "sport": "NBA",
+    "tier": "LOW",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Orlando Magic ML",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "OVER 229.5",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Paolo Banchero OVER 22.5 PTS",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Anthony Edwards OVER 24.0 PTS",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Wendell Carter Jr. OVER 7.5 REB",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Paolo Banchero OVER 5.0 AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Desmond Bane OVER 2.0 3PM",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Mike Conley OVER 5.0 AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Paolo Banchero OVER 26.0 PTS+AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Detroit Pistons ML",
+    "sport": "NBA",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 222.5",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Cade Cunningham OVER 22.0 PTS",
+    "sport": "NBA",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Giannis Antetokounmpo OVER 27.0 PTS",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Jalen Duren OVER 9.0 REB",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Cade Cunningham OVER 6.0 AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Kevin Huerter OVER 2.0 3PM",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Giannis Antetokounmpo OVER 5.0 AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Cade Cunningham OVER 27.0 PTS+AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Jalen Duren OVER 1.0 BLK",
+    "sport": "NBA",
+    "tier": "LOW",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Denver Nuggets ML",
+    "sport": "NBA",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 247.5",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Nikola Jokic OVER 26.0 PTS",
+    "sport": "NBA",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Santi Aldama OVER 11.0 PTS",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Nikola Jokic OVER 11.5 REB",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Nikola Jokic OVER 9.0 AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Tim Hardaway Jr. OVER 2.0 3PM",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Tyus Jones OVER 5.0 AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Nikola Jokic OVER 33.5 PTS+AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Nikola Jokic OVER 1.0 BLK",
+    "sport": "NBA",
+    "tier": "LOW",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "San Antonio Spurs ML",
+    "sport": "NBA",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "OVER 228.5",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "De'Aaron Fox OVER 22.5 PTS",
+    "sport": "NBA",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Damian Lillard OVER 21.5 PTS",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Victor Wembanyama OVER 9.0 REB",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "De'Aaron Fox OVER 5.5 AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Devin Vassell OVER 2.0 3PM",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Damian Lillard OVER 6.0 AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "De'Aaron Fox OVER 27.0 PTS+AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Victor Wembanyama OVER 3.0 BLK",
+    "sport": "NBA",
+    "tier": "LOW",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Oklahoma City Thunder ML",
+    "sport": "NBA",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "OVER 225.5",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Shai Gilgeous-Alexander OVER 28.5 PTS",
+    "sport": "NBA",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Darius Garland OVER 18.5 PTS",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Isaiah Hartenstein OVER 9.0 REB",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Shai Gilgeous-Alexander OVER 5.5 AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Chet Holmgren OVER 1.5 3PM",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Darius Garland OVER 6.5 AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Shai Gilgeous-Alexander OVER 33.0 PTS+AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Chet Holmgren OVER 2.0 BLK",
+    "sport": "NBA",
+    "tier": "LOW",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Phoenix Suns ML",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 233.5",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Devin Booker OVER 23.0 PTS",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Khris Middleton OVER 13.0 PTS",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Mark Williams OVER 9.0 REB",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Devin Booker OVER 5.5 AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Jalen Green OVER 2.0 3PM",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Khris Middleton OVER 4.0 AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Devin Booker OVER 27.0 PTS+AST",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Mark Williams OVER 1.5 BLK",
+    "sport": "NBA",
+    "tier": "LOW",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Buffalo Sabres ML",
+    "sport": "NHL",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 6.5",
+    "sport": "NHL",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Tage Thompson OVER 3.5 Shots on Goal",
+    "sport": "NHL",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Tage Thompson OVER 0.5 Points",
+    "sport": "NHL",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Artemi Panarin OVER 2.5 Shots on Goal",
+    "sport": "NHL",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Tage Thompson OVER 0.5 Goals",
+    "sport": "NHL",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Toronto Maple Leafs ML",
+    "sport": "NHL",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 6.5",
+    "sport": "NHL",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Alex Ovechkin OVER 3.0 Shots on Goal",
+    "sport": "NHL",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Alex Ovechkin OVER 0.5 Points",
+    "sport": "NHL",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Auston Matthews OVER 3.5 Shots on Goal",
+    "sport": "NHL",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "San Jose Sharks ML",
+    "sport": "NHL",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 6.5",
+    "sport": "NHL",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Connor McDavid OVER 3.0 Shots on Goal",
+    "sport": "NHL",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Connor McDavid OVER 0.5 Points",
+    "sport": "NHL",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "SJ Star OVER 2.5 Shots on Goal",
+    "sport": "NHL",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Connor McDavid OVER 0.5 Goals",
+    "sport": "NHL",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Pittsburgh Pirates ML",
+    "sport": "MLB",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "OVER 8.5",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Mitch Keller OVER 6.5 Strikeouts",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Oneil Cruz OVER 0.5 Hits",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Cleveland Guardians ML",
+    "sport": "MLB",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "OVER 8.5",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Jose Ramirez OVER 0.5 Hits",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Boston Red Sox ML",
+    "sport": "MLB",
+    "tier": "LOW",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 8.5",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Tanner Houck OVER 6.5 Strikeouts",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Freddy Peralta OVER 7.5 Strikeouts",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Rafael Devers OVER 0.5 Hits",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "William Contreras OVER 1.0 Total Bases",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Chicago White Sox ML",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 8.5",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Corbin Burnes OVER 7.0 Strikeouts",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Gunnar Henderson OVER 1.5 Total Bases",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Texas Rangers ML",
+    "sport": "MLB",
+    "tier": "LOW",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 8.5",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Luis Castillo OVER 7.0 Strikeouts",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Corey Seager OVER 0.5 Hits",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Julio Rodriguez OVER 1.5 Total Bases",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Los Angeles Dodgers ML",
+    "sport": "MLB",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 8.5",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Kevin Gausman OVER 7.5 Strikeouts",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Yoshinobu Yamamoto OVER 7.5 Strikeouts",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Vladimir Guerrero Jr. OVER 0.5 Hits",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Mookie Betts OVER 1.5 Total Bases",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Colorado Rockies ML",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 8.5",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Framber Valdez OVER 6.0 Strikeouts",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Yordan Alvarez OVER 1.5 Total Bases",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Philadelphia Phillies ML",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 8.5",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Zack Wheeler OVER 7.5 Strikeouts",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Bryce Harper OVER 1.5 Total Bases",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "St. Louis Cardinals ML",
+    "sport": "MLB",
+    "tier": "LOW",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 8.5",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Paul Goldschmidt OVER 1.5 Total Bases",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Los Angeles Angels ML",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 8.5",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Spencer Strider OVER 8.5 Strikeouts",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Shohei Ohtani OVER 0.5 Hits",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Ronald Acuna Jr. OVER 1.5 Total Bases",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "New York Mets ML",
+    "sport": "MLB",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "OVER 8.5",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Zac Gallen OVER 7.0 Strikeouts",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Pete Alonso OVER 0.5 Hits",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Ketel Marte OVER 1.5 Total Bases",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Tampa Bay Rays ML",
+    "sport": "MLB",
+    "tier": "LOW",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 8.0",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Shota Imanaga OVER 6.5 Strikeouts",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Seiya Suzuki OVER 1.5 Total Bases",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Cincinnati Reds ML",
+    "sport": "MLB",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 7.5",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Jesus Luzardo OVER 7.0 Strikeouts",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Hunter Greene OVER 7.5 Strikeouts",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Jazz Chisholm Jr. OVER 0.5 Hits",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Elly De La Cruz OVER 1.0 Total Bases",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "New York Yankees ML",
+    "sport": "MLB",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 8.5",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Gerrit Cole OVER 7.5 Strikeouts",
+    "sport": "MLB",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Juan Soto OVER 0.5 Hits",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Minnesota Twins ML",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "UNDER 8.0",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Pablo Lopez OVER 7.0 Strikeouts",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Tarik Skubal OVER 8.0 Strikeouts",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Byron Buxton OVER 0.5 Hits",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
+  },
+  {
+    "date": "2026-04-08",
+    "pick": "Spencer Torkelson OVER 1.0 Total Bases",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": ""
   }
 ]
