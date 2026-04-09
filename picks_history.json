@@ -2269,24 +2269,24 @@
     "pick": "Cleveland Cavaliers ML",
     "sport": "NBA",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "WIN",
+    "score": "CLE 122, ATL 116"
   },
   {
     "date": "2026-04-08",
     "pick": "OVER 236.5",
     "sport": "NBA",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "WIN",
+    "score": "238 total"
   },
   {
     "date": "2026-04-08",
     "pick": "Donovan Mitchell OVER 22.5 PTS",
     "sport": "NBA",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "WIN",
+    "score": "Mitchell: 31 PTS"
   },
   {
     "date": "2026-04-08",
@@ -2349,56 +2349,56 @@
     "pick": "Orlando Magic ML",
     "sport": "NBA",
     "tier": "MEDIUM",
-    "result": "PENDING",
-    "score": ""
+    "result": "WIN",
+    "score": "ORL 132, MIN 120"
   },
   {
     "date": "2026-04-08",
     "pick": "OVER 229.5",
     "sport": "NBA",
     "tier": "MEDIUM",
-    "result": "PENDING",
-    "score": ""
+    "result": "WIN",
+    "score": "252 total (132+120)"
   },
   {
     "date": "2026-04-08",
     "pick": "Paolo Banchero OVER 22.5 PTS",
     "sport": "NBA",
     "tier": "MEDIUM",
-    "result": "PENDING",
-    "score": ""
+    "result": "LOSS",
+    "score": "Banchero: 20 PTS"
   },
   {
     "date": "2026-04-08",
     "pick": "Anthony Edwards OVER 24.0 PTS",
     "sport": "NBA",
     "tier": "MEDIUM",
-    "result": "PENDING",
-    "score": ""
+    "result": "VOID",
+    "score": "Edwards DNP"
   },
   {
     "date": "2026-04-08",
     "pick": "Wendell Carter Jr. OVER 7.5 REB",
     "sport": "NBA",
     "tier": "MEDIUM",
-    "result": "PENDING",
-    "score": ""
+    "result": "LOSS",
+    "score": "Carter: 7 REB"
   },
   {
     "date": "2026-04-08",
     "pick": "Paolo Banchero OVER 5.0 AST",
     "sport": "NBA",
     "tier": "MEDIUM",
-    "result": "PENDING",
-    "score": ""
+    "result": "WIN",
+    "score": "Banchero: 6 AST"
   },
   {
     "date": "2026-04-08",
     "pick": "Desmond Bane OVER 2.0 3PM",
     "sport": "NBA",
     "tier": "MEDIUM",
-    "result": "PENDING",
-    "score": ""
+    "result": "LOSS",
+    "score": "Bane: 1 3PM (1-4)"
   },
   {
     "date": "2026-04-08",
@@ -2413,16 +2413,16 @@
     "pick": "Paolo Banchero OVER 26.0 PTS+AST",
     "sport": "NBA",
     "tier": "MEDIUM",
-    "result": "PENDING",
-    "score": ""
+    "result": "LOSS",
+    "score": "20 PTS + 6 AST = 26.0"
   },
   {
     "date": "2026-04-08",
     "pick": "Detroit Pistons ML",
     "sport": "NBA",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "WIN",
+    "score": "DET 137, MIL 111"
   },
   {
     "date": "2026-04-08",
@@ -2437,8 +2437,8 @@
     "pick": "Cade Cunningham OVER 22.0 PTS",
     "sport": "NBA",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "LOSS",
+    "score": "Cunningham: 13 PTS (returned from collapsed lung)"
   },
   {
     "date": "2026-04-08",
@@ -2501,8 +2501,8 @@
     "pick": "Denver Nuggets ML",
     "sport": "NBA",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "WIN",
+    "score": "DEN 136, MEM 119"
   },
   {
     "date": "2026-04-08",
@@ -2517,8 +2517,8 @@
     "pick": "Nikola Jokic OVER 26.0 PTS",
     "sport": "NBA",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "LOSS",
+    "score": "Jokic: 14 PTS"
   },
   {
     "date": "2026-04-08",
@@ -2581,8 +2581,8 @@
     "pick": "San Antonio Spurs ML",
     "sport": "NBA",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "WIN",
+    "score": "SAS 112, POR 101"
   },
   {
     "date": "2026-04-08",
@@ -2597,8 +2597,8 @@
     "pick": "De'Aaron Fox OVER 22.5 PTS",
     "sport": "NBA",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "WIN",
+    "score": "Fox: 25 PTS"
   },
   {
     "date": "2026-04-08",
@@ -2661,8 +2661,8 @@
     "pick": "Oklahoma City Thunder ML",
     "sport": "NBA",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "WIN",
+    "score": "OKC 128, LAC 110"
   },
   {
     "date": "2026-04-08",
@@ -2677,8 +2677,8 @@
     "pick": "Shai Gilgeous-Alexander OVER 28.5 PTS",
     "sport": "NBA",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "LOSS",
+    "score": "SGA: 20 PTS, 11 AST"
   },
   {
     "date": "2026-04-08",
@@ -2837,8 +2837,8 @@
     "pick": "Tage Thompson OVER 3.5 Shots on Goal",
     "sport": "NHL",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "LOSS",
+    "score": "Thompson: ~2 SOG (BUF 5, NYR 3)"
   },
   {
     "date": "2026-04-08",
@@ -2909,8 +2909,8 @@
     "pick": "San Jose Sharks ML",
     "sport": "NHL",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "LOSS",
+    "score": "SJO 2, EDM 5"
   },
   {
     "date": "2026-04-08",
@@ -2957,8 +2957,8 @@
     "pick": "Pittsburgh Pirates ML",
     "sport": "MLB",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "LOSS",
+    "score": "PIT 2, SD 8"
   },
   {
     "date": "2026-04-08",
@@ -2989,8 +2989,8 @@
     "pick": "Cleveland Guardians ML",
     "sport": "MLB",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "WIN",
+    "score": "CLE 10, KC 2"
   },
   {
     "date": "2026-04-08",
@@ -3133,8 +3133,8 @@
     "pick": "Los Angeles Dodgers ML",
     "sport": "MLB",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "LOSS",
+    "score": "LAD 3, TOR 4"
   },
   {
     "date": "2026-04-08",
@@ -3309,8 +3309,8 @@
     "pick": "New York Mets ML",
     "sport": "MLB",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "LOSS",
+    "score": "NYM 2, ARI 7"
   },
   {
     "date": "2026-04-08",
@@ -3381,8 +3381,8 @@
     "pick": "Cincinnati Reds ML",
     "sport": "MLB",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "LOSS",
+    "score": "CIN 4, MIA 7"
   },
   {
     "date": "2026-04-08",
@@ -3429,8 +3429,8 @@
     "pick": "New York Yankees ML",
     "sport": "MLB",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "LOSS",
+    "score": "NYY 2, OAK 3"
   },
   {
     "date": "2026-04-08",
@@ -3445,8 +3445,8 @@
     "pick": "Gerrit Cole OVER 7.5 Strikeouts",
     "sport": "MLB",
     "tier": "HIGH",
-    "result": "PENDING",
-    "score": ""
+    "result": "VOID",
+    "score": "Cole did not start (W. Warren started)"
   },
   {
     "date": "2026-04-08",
@@ -3503,5 +3503,115 @@
     "tier": "MEDIUM",
     "result": "PENDING",
     "score": ""
+  },
+  {
+    "date": "2026-04-09",
+    "pick": "Houston Rockets ML",
+    "sport": "NBA",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": "",
+    "game": "PHI @ HOU • 8:00 PM ET",
+    "analysis": "Embiid OUT (illness). Rockets 7-game win streak, 28-10 at home. Philly gutted without franchise player."
+  },
+  {
+    "date": "2026-04-09",
+    "pick": "Cincinnati Reds ML",
+    "sport": "MLB",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": "",
+    "game": "CIN @ MIA • 1:35 PM ET",
+    "analysis": "Rhett Lowder 1.64 ERA vs Max Meyer 4.66 ERA. Reds lead series 2-1. Lowder has historic 1.30 ERA through 8 career starts."
+  },
+  {
+    "date": "2026-04-09",
+    "pick": "Kansas City Royals ML",
+    "sport": "MLB",
+    "tier": "HIGH",
+    "result": "PENDING",
+    "score": "",
+    "game": "CWS @ KC • 7:40 PM ET",
+    "analysis": "Seth Lugo 1.59 ERA, 0.97 WHIP, 10 K vs Anthony Kay 4.00 ERA. White Sox 3-game losing streak, 4-8 overall."
+  },
+  {
+    "date": "2026-04-09",
+    "pick": "Boston Celtics +4.5",
+    "sport": "NBA",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": "",
+    "game": "BOS @ NYK • 7:30 PM ET",
+    "analysis": "Tatum 20+ pts in 6 straight. Brown dropped 35 last game. Celtics 7-of-8, rolling. Shouldn't be 4.5-pt dogs at MSG."
+  },
+  {
+    "date": "2026-04-09",
+    "pick": "Ottawa Senators ML",
+    "sport": "NHL",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": "",
+    "game": "FLA @ OTT • 7:00 PM ET",
+    "analysis": "Panthers eliminated (3-6-1 L10, 0 motivation). Sens fighting for Wild Card (6-3-1 L10, 84% playoff odds). Home ice Ottawa."
+  },
+  {
+    "date": "2026-04-09",
+    "pick": "OVER 8 (DET/MIN)",
+    "sport": "MLB",
+    "tier": "MEDIUM",
+    "result": "PENDING",
+    "score": "",
+    "game": "DET @ MIN • 1:40 PM ET",
+    "analysis": "Flaherty 7.56 ERA + Abel 11.05 ERA. Series L3 games totaled 10, 6, 14 runs. Both starters leaking walks and homers."
+  },
+  {
+    "date": "2026-04-09",
+    "pick": "SGP: Rockets ML + Jalen Green OVER 23.5 PTS + Sengun OVER 18.5 PTS",
+    "sport": "NBA",
+    "tier": "INSIDER",
+    "result": "PENDING",
+    "score": "",
+    "game": "PHI @ HOU • 8:00 PM ET",
+    "analysis": "3-leg correlated SGP. Embiid out = zero rim protection. Green drives freely, Sengun feasts in post. Rockets win by double digits."
+  },
+  {
+    "date": "2026-04-09",
+    "pick": "Aaron Judge OVER 0.5 HR (+210)",
+    "sport": "MLB",
+    "tier": "HR_SPOTLIGHT",
+    "result": "PENDING",
+    "score": "",
+    "game": "OAK @ NYY • 7:10 PM ET",
+    "analysis": "3 HR in 11 games. Home vs Jeffrey Springs (LHP). Judge historically demolishes lefties."
+  },
+  {
+    "date": "2026-04-09",
+    "pick": "Giancarlo Stanton OVER 0.5 HR (+300)",
+    "sport": "MLB",
+    "tier": "HR_SPOTLIGHT",
+    "result": "PENDING",
+    "score": "",
+    "game": "OAK @ NYY • 7:10 PM ET",
+    "analysis": ".929 career OPS vs LHP, 117 career HR vs lefties. Home vs Springs. Elite matchup for power."
+  },
+  {
+    "date": "2026-04-09",
+    "pick": "Bobby Witt Jr. OVER 0.5 HR (+390)",
+    "sport": "MLB",
+    "tier": "HR_SPOTLIGHT",
+    "result": "PENDING",
+    "score": "",
+    "game": "CWS @ KC • 7:40 PM ET",
+    "analysis": ".409 xwOBA (Top 25 MLB). 0 HR but massive positive regression due. Kay allows HR in every start, 92.4 mph avg EV."
+  },
+  {
+    "date": "2026-04-09",
+    "pick": "Shea Langeliers OVER 0.5 HR (+390)",
+    "sport": "MLB",
+    "tier": "HR_SPOTLIGHT",
+    "result": "PENDING",
+    "score": "",
+    "game": "OAK @ NYY • 7:10 PM ET",
+    "analysis": "5 HR in 11 games — MLB-leading 36.4% HR rate to start 2026. Hottest power bat in baseball right now."
   }
 ]

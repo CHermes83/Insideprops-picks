@@ -1,46 +1,12 @@
 {
-    "wins": 44,
-    "losses": 25,
-    "pushes": 0,
-    "last_updated": "2026-04-08",
-    "tracking_start": "2026-03-23",
-    "note": "Individual pick leg tracking from March 23, 2026. NBA props, MLB props, and SGPs. Auto-updating via check_results.py. VOID picks (injured/DNP players) excluded from record.",
-    "daily_records": {
-        "2026-03-23": {
-            "wins": 7,
-            "losses": 3,
-            "pushes": 0,
-            "voids": 0
-        },
-        "2026-03-24": {
-            "wins": 11,
-            "losses": 4,
-            "pushes": 0,
-            "voids": 0
-        },
-        "2026-03-27": {
-            "wins": 3,
-            "losses": 1,
-            "pushes": 0,
-            "voids": 0
-        },
-        "2026-03-29": {
-            "wins": 9,
-            "losses": 2,
-            "pushes": 0,
-            "voids": 0
-        },
-        "2026-03-30": {
-            "wins": 6,
-            "losses": 6,
-            "pushes": 0,
-            "voids": 0
-        },
-        "2026-03-31": {
-            "wins": 8,
-            "losses": 9,
-            "pushes": 0,
-            "voids": 4
-        }
-    }
+  "wins": 56,
+  "losses": 39,
+  "pushes": 0,
+  "last_updated": "2026-04-09",
+  "tracking_start": "2026-03-23",
+  "picks_posted_today": "2026-04-09",
+  "notes": "4/8 fully graded (56-39). Today's 4/9 picks posted: HOU ML, CIN ML, KC ML (HIGH); BOS +4.5, OTT ML, DET/MIN OVER (MEDIUM); SGP + HR Spotlight.",
+  "high_confidence_record": {
+    "note": "Tracking since 3/23/26"
+  }
 }
