@@ -3511,7 +3511,7 @@
     "tier": "HIGH",
     "result": "PENDING",
     "score": "",
-    "game": "PHI @ HOU • 8:00 PM ET",
+    "game": "PHI @ HOU \u2022 8:00 PM ET",
     "analysis": "Embiid OUT (illness). Rockets 7-game win streak, 28-10 at home. Philly gutted without franchise player."
   },
   {
@@ -3521,7 +3521,7 @@
     "tier": "HIGH",
     "result": "PENDING",
     "score": "",
-    "game": "CIN @ MIA • 1:35 PM ET",
+    "game": "CIN @ MIA \u2022 1:35 PM ET",
     "analysis": "Rhett Lowder 1.64 ERA vs Max Meyer 4.66 ERA. Reds lead series 2-1. Lowder has historic 1.30 ERA through 8 career starts."
   },
   {
@@ -3531,7 +3531,7 @@
     "tier": "HIGH",
     "result": "PENDING",
     "score": "",
-    "game": "CWS @ KC • 7:40 PM ET",
+    "game": "CWS @ KC \u2022 7:40 PM ET",
     "analysis": "Seth Lugo 1.59 ERA, 0.97 WHIP, 10 K vs Anthony Kay 4.00 ERA. White Sox 3-game losing streak, 4-8 overall."
   },
   {
@@ -3541,7 +3541,7 @@
     "tier": "MEDIUM",
     "result": "PENDING",
     "score": "",
-    "game": "BOS @ NYK • 7:30 PM ET",
+    "game": "BOS @ NYK \u2022 7:30 PM ET",
     "analysis": "Tatum 20+ pts in 6 straight. Brown dropped 35 last game. Celtics 7-of-8, rolling. Shouldn't be 4.5-pt dogs at MSG."
   },
   {
@@ -3551,7 +3551,7 @@
     "tier": "MEDIUM",
     "result": "PENDING",
     "score": "",
-    "game": "FLA @ OTT • 7:00 PM ET",
+    "game": "FLA @ OTT \u2022 7:00 PM ET",
     "analysis": "Panthers eliminated (3-6-1 L10, 0 motivation). Sens fighting for Wild Card (6-3-1 L10, 84% playoff odds). Home ice Ottawa."
   },
   {
@@ -3561,7 +3561,7 @@
     "tier": "MEDIUM",
     "result": "PENDING",
     "score": "",
-    "game": "DET @ MIN • 1:40 PM ET",
+    "game": "DET @ MIN \u2022 1:40 PM ET",
     "analysis": "Flaherty 7.56 ERA + Abel 11.05 ERA. Series L3 games totaled 10, 6, 14 runs. Both starters leaking walks and homers."
   },
   {
@@ -3571,7 +3571,7 @@
     "tier": "INSIDER",
     "result": "PENDING",
     "score": "",
-    "game": "PHI @ HOU • 8:00 PM ET",
+    "game": "PHI @ HOU \u2022 8:00 PM ET",
     "analysis": "3-leg correlated SGP. Embiid out = zero rim protection. Green drives freely, Sengun feasts in post. Rockets win by double digits."
   },
   {
@@ -3581,7 +3581,7 @@
     "tier": "HR_SPOTLIGHT",
     "result": "PENDING",
     "score": "",
-    "game": "OAK @ NYY • 7:10 PM ET",
+    "game": "OAK @ NYY \u2022 7:10 PM ET",
     "analysis": "3 HR in 11 games. Home vs Jeffrey Springs (LHP). Judge historically demolishes lefties."
   },
   {
@@ -3591,7 +3591,7 @@
     "tier": "HR_SPOTLIGHT",
     "result": "PENDING",
     "score": "",
-    "game": "OAK @ NYY • 7:10 PM ET",
+    "game": "OAK @ NYY \u2022 7:10 PM ET",
     "analysis": ".929 career OPS vs LHP, 117 career HR vs lefties. Home vs Springs. Elite matchup for power."
   },
   {
@@ -3601,7 +3601,7 @@
     "tier": "HR_SPOTLIGHT",
     "result": "PENDING",
     "score": "",
-    "game": "CWS @ KC • 7:40 PM ET",
+    "game": "CWS @ KC \u2022 7:40 PM ET",
     "analysis": ".409 xwOBA (Top 25 MLB). 0 HR but massive positive regression due. Kay allows HR in every start, 92.4 mph avg EV."
   },
   {
@@ -3611,7 +3611,103 @@
     "tier": "HR_SPOTLIGHT",
     "result": "PENDING",
     "score": "",
-    "game": "OAK @ NYY • 7:10 PM ET",
-    "analysis": "5 HR in 11 games — MLB-leading 36.4% HR rate to start 2026. Hottest power bat in baseball right now."
+    "game": "OAK @ NYY \u2022 7:10 PM ET",
+    "analysis": "5 HR in 11 games \u2014 MLB-leading 36.4% HR rate to start 2026. Hottest power bat in baseball right now."
+  },
+  {
+    "date": "2026-04-10",
+    "sport": "NBA",
+    "pick": " ML +800",
+    "type": "ml",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-10",
+    "sport": "NBA",
+    "pick": " ML +180",
+    "type": "ml",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-10",
+    "sport": "NBA",
+    "pick": " ML +800",
+    "type": "ml",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-10",
+    "sport": "NBA",
+    "pick": " ML +425",
+    "type": "ml",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-10",
+    "sport": "NBA",
+    "pick": " ML +400",
+    "type": "ml",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-10",
+    "sport": "NBA",
+    "pick": " +15.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-10",
+    "sport": "MLB",
+    "pick": " ML +120",
+    "type": "ml",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-10",
+    "sport": "MLB",
+    "pick": " ML +145",
+    "type": "ml",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-10",
+    "sport": "MLB",
+    "pick": " ML +118",
+    "type": "ml",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-10",
+    "sport": "MLB",
+    "pick": " ML +155",
+    "type": "ml",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-10",
+    "sport": "MLB",
+    "pick": " +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-10",
+    "sport": "MLB",
+    "pick": " PK",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": " @ "
   }
 ]
