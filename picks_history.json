@@ -3709,5 +3709,77 @@
     "type": "spread",
     "result": "PENDING",
     "matchup": " @ "
+  },
+  {
+    "date": "2026-04-11",
+    "sport": "NBA",
+    "pick": " ML +245",
+    "type": "ml",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-11",
+    "sport": "NBA",
+    "pick": " ML +136",
+    "type": "ml",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-11",
+    "sport": "MLB",
+    "pick": " ML +121",
+    "type": "ml",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-11",
+    "sport": "MLB",
+    "pick": " ML +120",
+    "type": "ml",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-11",
+    "sport": "MLB",
+    "pick": " ML +121",
+    "type": "ml",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-11",
+    "sport": "MLB",
+    "pick": " +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-11",
+    "sport": "MLB",
+    "pick": " -1",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-11",
+    "sport": "MLB",
+    "pick": " -1",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": " @ "
+  },
+  {
+    "date": "2026-04-11",
+    "sport": "NHL",
+    "pick": " ML +105",
+    "type": "ml",
+    "result": "PENDING",
+    "matchup": " @ "
   }
 ]
