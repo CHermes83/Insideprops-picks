@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily Recaps — InsideProps</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+<!-- ── Navigation ─────────────────────────────────────────────────────────── -->
+<nav class="ip-nav">
+  <div class="ip-nav-inner">
+    <a class="ip-logo" href="index.html">Inside<span>Props</span></a>
+    <ul class="ip-nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="picks.html">Daily Picks</a></li>
+      <li><a href="hr-leaders.html">HR Leaders</a></li>
+      <li><a href="parlay.html">Parlay of the Day</a></li>
+      <li><a href="recaps.html" class="active">Daily Recaps</a></li>
+      <li><a href="subscribe.html" class="ip-btn-nav">Subscribe</a></li>
+    </ul>
+    <button class="ip-nav-toggle" onclick="document.querySelector('.ip-nav-links').classList.toggle('open')">☰</button>
+  </div>
+</nav>
+
+<!-- ── Page Header ────────────────────────────────────────────────────────── -->
+<div class="ip-page-header">
+  <div class="ip-container">
+    <h1>📅 Daily Recaps</h1>
+    <p class="ip-page-sub">Every pick. Every result. Full transparency — no cherry-picking, no hiding losses.</p>
+    <div class="recaps-season-totals">
+      <div class="season-total-chip">
+        <span class="stc-label">Season Record</span>
+        <span class="stc-val wins">0 W</span>
+        <span class="stc-sep">–</span>
+        <span class="stc-val losses">0 L</span>
+        <span class="stc-push">0 Push</span>
+      </div>
+      <div class="season-total-chip">
+        <span class="stc-label">Tracking Since</span>
+        <span class="stc-val">May 16, 2026</span>
+      </div>
+      <div class="season-total-chip">
+        <span class="stc-label">Days Tracked</span>
+        <span class="stc-val">1</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ── Filter Bar ─────────────────────────────────────────────────────────── -->
+<div class="recaps-filter-bar">
+  <div class="ip-container recaps-filter-inner">
+    <span class="filter-label">Filter:</span>
+    <button class="filter-btn active" onclick="filterRecaps('all', this)">All</button>
+    <button class="filter-btn" onclick="filterRecaps('win', this)">✓ Wins</button>
+    <button class="filter-btn" onclick="filterRecaps('loss', this)">✗ Losses</button>
+    <button class="filter-btn" onclick="filterRecaps('push', this)">Push</button>
+    <button class="filter-btn" onclick="filterRecaps('mlb', this)">⚾ MLB</button>
+    <button class="filter-btn" onclick="filterRecaps('nhl', this)">🏒 NHL</button>
+  </div>
+</div>
+
+<!-- ── Recaps Archive ─────────────────────────────────────────────────────── -->
+<section class="ip-section">
+  <div class="ip-container">
+
+    <!-- TODAY — PENDING -->
+    <div class="recap-day" id="recap-2026-05-16">
+      <div class="recap-day-header" onclick="toggleRecap('2026-05-16')">
+        <div class="recap-day-info">
+          <span class="recap-date">Saturday, May 16, 2026</span>
+          <span class="recap-day-badge pending-badge">🔴 LIVE — Results Pending</span>
+        </div>
+        <div class="recap-day-record">
+          <span class="recap-record">0 – 0 – 0</span>
+          <span class="recap-toggle-icon" id="toggle-2026-05-16">▼</span>
+        </div>
+      </div>
+
+      <div class="recap-day-body" id="body-2026-05-16">
+        <p class="recap-pending-note">Today's picks are in progress. Results will be updated after all games conclude. Check back later tonight!</p>
+
+        <div class="recap-picks-list">
+
+          <div class="recap-pick pending" data-sport="mlb" data-result="pending">
+            <div class="recap-pick-result pending-icon">⏳</div>
+            <div class="recap-pick-info">
+              <div class="recap-pick-name">Kyle Schwarber — HR (+310)</div>
+              <div class="recap-pick-game">PHI vs. SF Giants · 4:05 PM ET</div>
+            </div>
+            <div class="recap-pick-meta">
+              <span class="sport-badge sport-mlb">⚾ MLB</span>
+              <span class="recap-odds">+310</span>
+            </div>
+          </div>
+
+          <div class="recap-pick pending" data-sport="mlb" data-result="pending">
+            <div class="recap-pick-result pending-icon">⏳</div>
+            <div class="recap-pick-info">
+              <div class="recap-pick-name">Aaron Judge — HR (+275)</div>
+              <div class="recap-pick-game">NYY vs. BOS Red Sox · 7:15 PM ET</div>
+            </div>
+            <div class="recap-pick-meta">
+              <span class="sport-badge sport-mlb">⚾ MLB</span>
+              <span class="recap-odds">+275</span>
+            </div>
+          </div>
+
+          <!-- Locked picks shown as blurred -->
+          <div class="recap-pick locked-recap" data-sport="mlb" data-result="pending">
+            <div class="recap-pick-result pending-icon">🔒</div>
+            <div class="recap-pick-info">
+              <div class="recap-pick-name pick-blurred">Starter/Premium Pick #3</div>
+              <div class="recap-pick-game pick-blurred">MLB Game</div>
+            </div>
+            <div class="recap-pick-meta">
+              <span class="sport-badge sport-mlb">⚾ MLB</span>
+              <a href="subscribe.html" class="unlock-recap-link">Unlock</a>
+            </div>
+          </div>
+
+          <div class="recap-pick locked-recap" data-sport="mlb" data-result="pending">
+            <div class="recap-pick-result pending-icon">🔒</div>
+            <div class="recap-pick-info">
+              <div class="recap-pick-name pick-blurred">Starter/Premium Pick #4</div>
+              <div class="recap-pick-game pick-blurred">MLB Game</div>
+            </div>
+            <div class="recap-pick-meta">
+              <span class="sport-badge sport-mlb">⚾ MLB</span>
+              <a href="subscribe.html" class="unlock-recap-link">Unlock</a>
+            </div>
+          </div>
+
+          <div class="recap-pick locked-recap" data-sport="mlb" data-result="pending">
+            <div class="recap-pick-result pending-icon">🔒</div>
+            <div class="recap-pick-info">
+              <div class="recap-pick-name pick-blurred">Starter/Premium Pick #5</div>
+              <div class="recap-pick-game pick-blurred">MLB Game</div>
+            </div>
+            <div class="recap-pick-meta">
+              <span class="sport-badge sport-mlb">⚾ MLB</span>
+              <a href="subscribe.html" class="unlock-recap-link">Unlock</a>
+            </div>
+          </div>
+
+          <div class="recap-pick locked-recap" data-sport="nhl" data-result="pending">
+            <div class="recap-pick-result pending-icon">🔒</div>
+            <div class="recap-pick-info">
+              <div class="recap-pick-name pick-blurred">Premium Pick #6</div>
+              <div class="recap-pick-game pick-blurred">NHL Playoff Game</div>
+            </div>
+            <div class="recap-pick-meta">
+              <span class="sport-badge sport-nhl">🏒 NHL</span>
+              <a href="subscribe.html" class="unlock-recap-link">Unlock</a>
+            </div>
+          </div>
+
+          <div class="recap-pick locked-recap" data-sport="nhl" data-result="pending">
+            <div class="recap-pick-result pending-icon">🔒</div>
+            <div class="recap-pick-info">
+              <div class="recap-pick-name pick-blurred">Premium Pick #7</div>
+              <div class="recap-pick-game pick-blurred">NHL Playoff Game</div>
+            </div>
+            <div class="recap-pick-meta">
+              <span class="sport-badge sport-nhl">🏒 NHL</span>
+              <a href="subscribe.html" class="unlock-recap-link">Unlock</a>
+            </div>
+          </div>
+
+          <div class="recap-pick locked-recap" data-sport="mlb" data-result="pending">
+            <div class="recap-pick-result pending-icon">🔒</div>
+            <div class="recap-pick-info">
+              <div class="recap-pick-name pick-blurred">Premium Pick #8</div>
+              <div class="recap-pick-game pick-blurred">MLB Game</div>
+            </div>
+            <div class="recap-pick-meta">
+              <span class="sport-badge sport-mlb">⚾ MLB</span>
+              <a href="subscribe.html" class="unlock-recap-link">Unlock</a>
+            </div>
+          </div>
+
+          <div class="recap-pick locked-recap" data-sport="mlb" data-result="pending">
+            <div class="recap-pick-result pending-icon">🔒</div>
+            <div class="recap-pick-info">
+              <div class="recap-pick-name pick-blurred">Premium Pick #9</div>
+              <div class="recap-pick-game pick-blurred">MLB Game</div>
+            </div>
+            <div class="recap-pick-meta">
+              <span class="sport-badge sport-mlb">⚾ MLB</span>
+              <a href="subscribe.html" class="unlock-recap-link">Unlock</a>
+            </div>
+          </div>
+
+          <div class="recap-pick locked-recap" data-sport="nhl" data-result="pending">
+            <div class="recap-pick-result pending-icon">🔒</div>
+            <div class="recap-pick-info">
+              <div class="recap-pick-name pick-blurred">Premium Pick #10</div>
+              <div class="recap-pick-game pick-blurred">NHL Playoff Game</div>
+            </div>
+            <div class="recap-pick-meta">
+              <span class="sport-badge sport-nhl">🏒 NHL</span>
+              <a href="subscribe.html" class="unlock-recap-link">Unlock</a>
+            </div>
+          </div>
+
+          <!-- Parlay Row -->
+          <div class="recap-parlay-row locked-recap">
+            <span class="parlay-recap-label">🎯 Parlay of the Day (+3200)</span>
+            <span class="parlay-recap-result pending-icon">⏳ PENDING</span>
+            <a href="subscribe.html" class="unlock-recap-link">Premium Only</a>
+          </div>
+
+        </div><!-- /recap-picks-list -->
+      </div><!-- /recap-day-body -->
+    </div><!-- /recap-day -->
+
+    <!-- FUTURE DATES PLACEHOLDER -->
+    <div class="recaps-future-note">
+      <p>📊 <strong>Tomorrow's recap and all future results will appear here automatically.</strong><br/>
+      InsideProps tracks every pick transparently — wins and losses both. No hiding. No cherry-picking.</p>
+    </div>
+
+    <!-- SEASON START BANNER -->
+    <div class="recaps-start-banner">
+      <div class="recaps-start-icon">🚀</div>
+      <div>
+        <strong>Fresh Season Start — May 16, 2026</strong>
+        <p>InsideProps is tracking records from scratch beginning today. Follow along and watch the record build in real time!</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ── Footer ────────────────────────────────────────────────────────────── -->
+<footer class="ip-footer">
+  <div class="ip-container">
+    <div class="ip-footer-inner">
+      <div class="ip-footer-brand">
+        <span class="ip-logo-footer">Inside<span>Props</span></span>
+        <p>Sharp player prop analysis. Every day.</p>
+      </div>
+      <div class="ip-footer-links">
+        <a href="index.html">Home</a>
+        <a href="picks.html">Daily Picks</a>
+        <a href="hr-leaders.html">HR Leaders</a>
+        <a href="parlay.html">Parlay</a>
+        <a href="recaps.html">Daily Recaps</a>
+        <a href="subscribe.html">Subscribe</a>
+      </div>
+    </div>
+    <div class="ip-footer-disclaimer">
+      <strong>Disclaimer:</strong> InsideProps is for entertainment and informational purposes only. We are not affiliated with any sportsbook. Gambling involves risk — please bet responsibly. Must be 21+ and in a jurisdiction where sports betting is legal.
+    </div>
+    <div class="ip-footer-copy">© 2026 InsideProps. All rights reserved.</div>
+  </div>
+</footer>
+
+<script>
+function toggleRecap(date) {
+  const body = document.getElementById('body-' + date);
+  const icon = document.getElementById('toggle-' + date);
+  if (body.style.display === 'none') {
+    body.style.display = 'block';
+    icon.textContent = '▼';
+  } else {
+    body.style.display = 'none';
+    icon.textContent = '▶';
+  }
+}
+
+function filterRecaps(type, btn) {
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+
+  document.querySelectorAll('.recap-pick').forEach(pick => {
+    const sport = pick.dataset.sport;
+    const result = pick.dataset.result;
+    if (type === 'all') {
+      pick.style.display = '';
+    } else if (type === 'mlb' || type === 'nhl' || type === 'nba') {
+      pick.style.display = (sport === type) ? '' : 'none';
+    } else {
+      pick.style.display = (result === type) ? '' : 'none';
+    }
+  });
+}
+</script>
+
+</body>
+</html>
