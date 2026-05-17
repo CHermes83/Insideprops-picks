@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Subscribe — InsideProps</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+<!-- ── Navigation ─────────────────────────────────────────────────────────── -->
+<nav class="ip-nav">
+  <div class="ip-nav-inner">
+    <a class="ip-logo" href="index.html">Inside<span>Props</span></a>
+    <ul class="ip-nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="picks.html">Daily Picks</a></li>
+      <li><a href="hr-leaders.html">HR Leaders</a></li>
+      <li><a href="parlay.html">Parlay of the Day</a></li>
+      <li><a href="recaps.html">Daily Recaps</a></li>
+      <li><a href="subscribe.html" class="ip-btn-nav active">Subscribe</a></li>
+    </ul>
+    <button class="ip-nav-toggle" onclick="document.querySelector('.ip-nav-links').classList.toggle('open')">☰</button>
+  </div>
+</nav>
+
+<!-- ── Page Header ────────────────────────────────────────────────────────── -->
+<div class="ip-page-header">
+  <div class="ip-container">
+    <h1>Choose Your Plan</h1>
+    <p class="ip-page-sub">All plans include daily picks across MLB, NHL, and NBA. Upgrade for more data, deeper analysis, and the parlay of the day.</p>
+  </div>
+</div>
+
+<!-- ── Pricing Cards ──────────────────────────────────────────────────────── -->
+<section class="ip-section">
+  <div class="ip-container">
+    <div class="pricing-grid">
+
+      <!-- FREE PLAN -->
+      <div class="pricing-card free-plan">
+        <div class="pricing-plan-label">Free</div>
+        <div class="pricing-price">
+          <span class="price-dollar">$</span>
+          <span class="price-amount">0</span>
+          <span class="price-period">/ forever</span>
+        </div>
+        <p class="pricing-tagline">Get a taste of the edge — no credit card required.</p>
+        <div class="pricing-divider"></div>
+        <ul class="pricing-features">
+          <li class="feat-yes">✓ 2 picks per day</li>
+          <li class="feat-yes">✓ Basic pick info (sport, bet, odds)</li>
+          <li class="feat-yes">✓ HR Leaders analytics (read-only)</li>
+          <li class="feat-yes">✓ Daily Recaps archive (free picks only)</li>
+          <li class="feat-no">✗ No supporting data or stats</li>
+          <li class="feat-no">✗ No Parlay of the Day</li>
+          <li class="feat-no">✗ No in-depth analysis</li>
+          <li class="feat-no">✗ No charts</li>
+        </ul>
+        <a href="#" class="pricing-cta free-cta">Get Started Free</a>
+      </div>
+
+      <!-- STARTER PLAN -->
+      <div class="pricing-card starter-plan">
+        <div class="pricing-plan-label">Starter</div>
+        <div class="pricing-price">
+          <span class="price-dollar">$</span>
+          <span class="price-amount">9</span>
+          <span class="price-period">/ month</span>
+        </div>
+        <p class="pricing-tagline">More picks, real data, real reasoning.</p>
+        <div class="pricing-divider"></div>
+        <ul class="pricing-features">
+          <li class="feat-yes">✓ 5 picks per day</li>
+          <li class="feat-yes">✓ Supporting stats for each pick</li>
+          <li class="feat-yes">✓ Matchup data &amp; reasoning</li>
+          <li class="feat-yes">✓ HR Leaders full view</li>
+          <li class="feat-yes">✓ Daily Recaps — all 5 picks tracked</li>
+          <li class="feat-yes">✓ Email alerts when picks drop</li>
+          <li class="feat-no">✗ No Parlay of the Day</li>
+          <li class="feat-no">✗ No charts or visual breakdowns</li>
+          <li class="feat-no">✗ No Premium analysis (picks 6–10)</li>
+        </ul>
+        <a href="#" class="pricing-cta starter-cta">Start for $9/mo</a>
+      </div>
+
+      <!-- PREMIUM PLAN -->
+      <div class="pricing-card premium-plan featured">
+        <div class="pricing-featured-badge">⭐ MOST POPULAR</div>
+        <div class="pricing-plan-label">Premium</div>
+        <div class="pricing-price">
+          <span class="price-dollar">$</span>
+          <span class="price-amount">24</span>
+          <span class="price-period">/ month</span>
+        </div>
+        <p class="pricing-tagline">The complete package. Everything we've got, every day.</p>
+        <div class="pricing-divider"></div>
+        <ul class="pricing-features">
+          <li class="feat-yes">✓ All 10 picks per day</li>
+          <li class="feat-yes">✓ Full stats + in-depth analysis</li>
+          <li class="feat-yes">✓ Data charts &amp; visual breakdowns</li>
+          <li class="feat-yes">✓ Parlay of the Day (+2500 minimum)</li>
+          <li class="feat-yes">✓ HR Leaders with full criteria detail</li>
+          <li class="feat-yes">✓ Full Daily Recaps — all 10 picks tracked</li>
+          <li class="feat-yes">✓ Priority email alerts</li>
+          <li class="feat-yes">✓ Monthly performance report</li>
+          <li class="feat-yes">✓ Cancel any time</li>
+        </ul>
+        <a href="#" class="pricing-cta premium-cta">Go Premium — $24/mo</a>
+        <div class="pricing-billed-note">Billed monthly. Cancel anytime.</div>
+      </div>
+
+    </div><!-- /pricing-grid -->
+  </div>
+</section>
+
+<!-- ── Feature Comparison Table ───────────────────────────────────────────── -->
+<section class="ip-section ip-section-alt">
+  <div class="ip-container">
+    <h2 style="text-align:center; margin-bottom: 1.5rem;">Feature Comparison</h2>
+    <div class="comparison-table-wrap">
+      <table class="comparison-table">
+        <thead>
+          <tr>
+            <th>Feature</th>
+            <th><span class="th-free">Free</span></th>
+            <th><span class="th-starter">Starter</span></th>
+            <th><span class="th-premium">Premium</span></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Daily Picks</td>
+            <td>2</td>
+            <td>5</td>
+            <td><strong>10</strong></td>
+          </tr>
+          <tr class="row-alt">
+            <td>Pick Reasoning / Data</td>
+            <td>—</td>
+            <td>✓ Sample</td>
+            <td><strong>✓ Full</strong></td>
+          </tr>
+          <tr>
+            <td>Data Charts</td>
+            <td>—</td>
+            <td>—</td>
+            <td><strong>✓</strong></td>
+          </tr>
+          <tr class="row-alt">
+            <td>Parlay of the Day</td>
+            <td>—</td>
+            <td>—</td>
+            <td><strong>✓ Full 5-leg parlay</strong></td>
+          </tr>
+          <tr>
+            <td>HR Leaders</td>
+            <td>✓ Basic</td>
+            <td>✓ Full</td>
+            <td><strong>✓ Full + Detail</strong></td>
+          </tr>
+          <tr class="row-alt">
+            <td>Daily Recaps Archive</td>
+            <td>✓ Free picks</td>
+            <td>✓ 5 picks</td>
+            <td><strong>✓ All 10 picks</strong></td>
+          </tr>
+          <tr>
+            <td>Email Alerts</td>
+            <td>—</td>
+            <td>✓</td>
+            <td><strong>✓ Priority</strong></td>
+          </tr>
+          <tr class="row-alt">
+            <td>Monthly Report</td>
+            <td>—</td>
+            <td>—</td>
+            <td><strong>✓</strong></td>
+          </tr>
+          <tr>
+            <td>Price</td>
+            <td><strong>$0</strong></td>
+            <td><strong>$9/mo</strong></td>
+            <td><strong>$24/mo</strong></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- ── FAQ ───────────────────────────────────────────────────────────────── -->
+<section class="ip-section">
+  <div class="ip-container">
+    <h2 style="text-align:center; margin-bottom: 1.5rem;">Frequently Asked Questions</h2>
+    <div class="faq-grid">
+
+      <div class="faq-item">
+        <div class="faq-q">When do picks drop each day?</div>
+        <div class="faq-a">Picks are typically published by 11 AM ET each day, before the first games tip off. Premium subscribers get an email alert the moment they're live.</div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q">What sports do you cover?</div>
+        <div class="faq-a">MLB, NHL (including playoffs), and NBA (when in season). We pick from whichever sports have games that day for the best props available.</div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q">How is the record tracked?</div>
+        <div class="faq-a">Every pick is logged in our Daily Recaps archive with a ✓ (Win) or ✗ (Loss) once results are final. No cherry-picking — the record reflects every tracked pick, including losses.</div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q">Can I cancel anytime?</div>
+        <div class="faq-a">Yes — cancel at any time with no penalty. Your subscription stays active until the end of your billing period.</div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q">Are these guaranteed wins?</div>
+        <div class="faq-a">No. Sports betting always involves risk. InsideProps uses data and analysis to find edges, but no pick is ever guaranteed. Bet responsibly and only what you can afford to lose.</div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q">What's the Parlay of the Day?</div>
+        <div class="faq-a">Every day, Premium subscribers get a 4–6 leg prop parlay targeting minimum +2500 odds. These are high-risk, high-reward slips built from the same data that drives our top picks.</div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ── CTA Strip ──────────────────────────────────────────────────────────── -->
+<section class="ip-cta-strip">
+  <div class="ip-container">
+    <h2>Start free. Upgrade when you're ready.</h2>
+    <p>Join InsideProps today — no credit card required for the free tier.</p>
+    <a href="#" class="ip-btn-primary">Get Started Free</a>
+  </div>
+</section>
+
+<!-- ── Footer ────────────────────────────────────────────────────────────── -->
+<footer class="ip-footer">
+  <div class="ip-container">
+    <div class="ip-footer-inner">
+      <div class="ip-footer-brand">
+        <span class="ip-logo-footer">Inside<span>Props</span></span>
+        <p>Sharp player prop analysis. Every day.</p>
+      </div>
+      <div class="ip-footer-links">
+        <a href="index.html">Home</a>
+        <a href="picks.html">Daily Picks</a>
+        <a href="hr-leaders.html">HR Leaders</a>
+        <a href="parlay.html">Parlay</a>
+        <a href="recaps.html">Daily Recaps</a>
+        <a href="subscribe.html">Subscribe</a>
+      </div>
+    </div>
+    <div class="ip-footer-disclaimer">
+      <strong>Disclaimer:</strong> InsideProps is for entertainment and informational purposes only. We are not affiliated with any sportsbook. Gambling involves risk — please bet responsibly. Must be 21+ and in a jurisdiction where sports betting is legal.
+    </div>
+    <div class="ip-footer-copy">© 2026 InsideProps. All rights reserved.</div>
+  </div>
+</footer>
+
+</body>
+</html>
