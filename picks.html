@@ -7,6 +7,17 @@
   <link rel="stylesheet" href="style.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <style>
+    .result-badge{display:inline-block;font-size:.7rem;font-weight:700;padding:2px 9px;border-radius:20px;letter-spacing:.04em;text-transform:uppercase;margin-left:.5rem}
+    .result-badge.win{background:#d4edda;color:#155724}
+    .result-badge.loss{background:#f8d7da;color:#721c24}
+    .result-badge.push{background:#fff3cd;color:#856404}
+    .sport-record-chips{display:flex;flex-wrap:wrap;gap:.4rem;justify-content:center;margin-top:.5rem}
+    .sport-record-chip{font-size:.78rem;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);border-radius:20px;padding:3px 12px;color:#fff}
+    .rec-w{color:#4ade80;font-weight:700}
+    .rec-l{color:#f87171;font-weight:700}
+    .sport-badge.sport-nba{background:#e65c00;color:#fff}
+  </style>
 </head>
 <body>
 
@@ -17,6 +28,7 @@
     <ul class="ip-nav-links">
       <li><a href="index.html">Home</a></li>
       <li><a href="picks.html" class="active">Daily Picks</a></li>
+      <li><a href="archive.html">Archive</a></li>
       <li><a href="hr-leaders.html">HR Leaders</a></li>
       <li><a href="parlay.html">Parlay of the Day</a></li>
       <li><a href="recaps.html">Daily Recaps</a></li>
@@ -30,10 +42,15 @@
 <div class="ip-page-header">
   <div class="ip-container">
     <h1>Daily Picks</h1>
-    <p class="ip-date-label">Saturday, May 16, 2026</p>
+    <p class="ip-date-label">Saturday, May 16, 2026 — Final Results</p>
     <div class="ip-picks-meta">
-      <span class="meta-chip">⚾ MLB · 🏒 NHL Playoffs</span>
-      <span class="meta-chip record-chip">Season: <strong>0W – 0L</strong> (Tracking starts today!)</span>
+      <span class="meta-chip">⚾ MLB · 🏒 NHL Playoffs · 🏀 NBA Playoffs · 🏈 NFL</span>
+      <div class="sport-record-chips">
+        <span class="sport-record-chip">⚾ MLB: <span class="rec-w">2W</span> – <span class="rec-l">0L</span></span>
+        <span class="sport-record-chip">🏒 NHL: <span class="rec-w">0W</span> – <span class="rec-l">0L</span> (locked)</span>
+        <span class="sport-record-chip">🏀 NBA: <span class="rec-w">0W</span> – <span class="rec-l">0L</span> (locked)</span>
+        <span class="sport-record-chip">🏈 NFL: <span class="rec-w">0W</span> – <span class="rec-l">0L</span> (offseason)</span>
+      </div>
     </div>
   </div>
 </div>
@@ -78,6 +95,7 @@
         <div class="pick-footer">
           <span class="pick-line">Schwarber to hit a Home Run</span>
           <span class="pick-odds free-odds">+310</span>
+          <span class="result-badge win">✅ WIN</span>
         </div>
       </div>
 
@@ -104,6 +122,7 @@
         <div class="pick-footer">
           <span class="pick-line">Judge to hit a Home Run</span>
           <span class="pick-odds free-odds">+275</span>
+          <span class="result-badge win">✅ WIN</span>
         </div>
       </div>
 
@@ -243,6 +262,60 @@
 
     </div><!-- /picks-grid NHL -->
 
+    <!-- NBA PLAYOFFS SECTION -->
+    <h2 class="picks-section-title" style="margin-top:2.5rem;">🏀 NBA Playoff Props</h2>
+    <div class="picks-grid">
+
+      <!-- PICK 11 — STARTER LOCKED -->
+      <div class="pick-card locked starter">
+        <div class="pick-card-top">
+          <span class="tier-badge tier-badge-starter">STARTER</span>
+          <span class="sport-badge sport-nba">🏀 NBA</span>
+          <span class="pick-number">#11</span>
+        </div>
+        <div class="pick-title pick-blurred">SGA — Over 29.5 Points (-115)</div>
+        <div class="pick-subtitle">OKC Thunder · NBA Playoffs</div>
+        <div class="pick-lock-overlay">
+          <div class="lock-icon">🔒</div>
+          <p>Unlock with <strong>Starter</strong> or <strong>Premium</strong></p>
+          <a href="subscribe.html" class="ip-btn-primary small">View Plans</a>
+        </div>
+      </div>
+
+      <!-- PICK 12 — STARTER LOCKED -->
+      <div class="pick-card locked starter">
+        <div class="pick-card-top">
+          <span class="tier-badge tier-badge-starter">STARTER</span>
+          <span class="sport-badge sport-nba">🏀 NBA</span>
+          <span class="pick-number">#12</span>
+        </div>
+        <div class="pick-title pick-blurred">Cade Cunningham — Over 27.5 Points (-110)</div>
+        <div class="pick-subtitle">DET Pistons vs. CLE Cavaliers · NBA Playoffs G6</div>
+        <div class="pick-lock-overlay">
+          <div class="lock-icon">🔒</div>
+          <p>Unlock with <strong>Starter</strong> or <strong>Premium</strong></p>
+          <a href="subscribe.html" class="ip-btn-primary small">View Plans</a>
+        </div>
+      </div>
+
+      <!-- PICK 13 — PREMIUM LOCKED -->
+      <div class="pick-card locked premium">
+        <div class="pick-card-top">
+          <span class="tier-badge tier-badge-premium">PREMIUM</span>
+          <span class="sport-badge sport-nba">🏀 NBA</span>
+          <span class="pick-number">#13</span>
+        </div>
+        <div class="pick-title pick-blurred">Victor Wembanyama — Over 24.5 Pts + Reb (-110)</div>
+        <div class="pick-subtitle">SAS Spurs vs. MIN Timberwolves · NBA Playoffs</div>
+        <div class="pick-lock-overlay">
+          <div class="lock-icon">🔒</div>
+          <p><strong>Premium Only</strong> — Full data + charts</p>
+          <a href="subscribe.html" class="ip-btn-gold small">Go Premium</a>
+        </div>
+      </div>
+
+    </div><!-- /picks-grid NBA -->
+
     <!-- UPGRADE BANNER -->
     <div class="ip-upgrade-banner">
       <div class="upgrade-banner-inner">
@@ -268,9 +341,10 @@
       <div class="ip-footer-links">
         <a href="index.html">Home</a>
         <a href="picks.html">Daily Picks</a>
+        <a href="archive.html">Archive</a>
         <a href="hr-leaders.html">HR Leaders</a>
         <a href="parlay.html">Parlay</a>
-        <a href="recaps.html">Daily Recaps</a>
+        <a href="recaps.html">Daily Recaps</span>
         <a href="subscribe.html">Subscribe</a>
       </div>
     </div>
