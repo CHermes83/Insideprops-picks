@@ -1,0 +1,119 @@
+name: InsideProps Daily Picks
+
+on:
+  schedule:
+    # 9:00 AM MDT (UTC-6) = 15:00 UTC
+    - cron: '0 15 * * *'
+  workflow_dispatch:   # manual trigger from GitHub Actions tab
+
+jobs:
+  picks:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Checkout ─────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ── 2. Python setup ──────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      # ── 3. Generate picks from ESPN ──────────────────────────────────────────
+      # Fetches real NBA/NHL/MLB schedules, injury reports, and generates picks.
+      # Uses ESPN public API (no key required).
+      - name: Generate daily picks (HTML site)
+        run: python automation/generate_picks.py
+        continue-on-error: true
+
+      # ── 4. Post picks to Webflow CMS ─────────────────────────────────────────
+      # Uses the same ESPN analysis to create structured CMS items in the
+      # Webflow "Picks" collection with Pick Date, Sport, Line, Tier fields.
+      - name: Post picks to Webflow CMS
+        env:
+          WEBFLOW_API_TOKEN: ${{ secrets.WEBFLOW_CMS_TOKEN }}
+          WEBFLOW_SITE_ID: "699dfc9b92d0ea1544725905"
+          PICKS_COLLECTION_ID: "699dfc459c6a1eeffe20b90d"
+        run: python automation/post_picks_cms.py
+
+      # ── 5. Verify CMS output ─────────────────────────────────────────────────
+      - name: Verify output files
+        run: |
+          echo "--- Generated files ---"
+          ls -lh automation/output_*.html automation/output_*.json 2>/dev/null || echo "No output files found!"
+          echo "--- Free picks preview ---"
+          head -5 automation/output_free_picks.html 2>/dev/null || true
+
+      # ── 6. Commit outputs to repo ────────────────────────────────────────────
+      - name: Commit picks HTML
+        run: |
+          git config user.name  "InsideProps Bot"
+          git config user.email "bot@insideprops.com"
+          git add automation/output_*.html automation/output_*.json || true
+          git diff --cached --quiet || git commit -m "Picks update: $(TZ='America/Denver' date +'%Y-%m-%d %I:%M %p MT')"
+          git push || true
+
+      # ── 7. Push picks HTML to Webflow page (legacy) ──────────────────────────
+      - name: Push HTML to Webflow page
+        env:
+          WEBFLOW_API_TOKEN: ${{ secrets.WEBFLOW_API_TOKEN }}
+          WEBFLOW_SITE_ID:   ${{ secrets.WEBFLOW_SITE_ID }}
+        run: python automation/update_webflow.py
+        continue-on-error: true
+
+      # ── 8. Post to Discord ───────────────────────────────────────────────────
+      - name: Post to Discord
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          if [ -z "$DISCORD_WEBHOOK_URL" ]; then
+            echo "DISCORD_WEBHOOK_URL not set — skipping."
+            exit 0
+          fi
+          python - <<'PYEOF'
+          import os, json, requests
+          from datetime import datetime
+
+          try:
+              from zoneinfo import ZoneInfo
+              MT = ZoneInfo("America/Denver")
+          except ImportError:
+              import pytz
+              MT = pytz.timezone("America/Denver")
+
+          now   = datetime.now(tz=MT)
+          date  = now.strftime("%B %-d, %Y")
+          day   = now.strftime("%A")
+
+          try:
+              ticker = json.load(open("automation/output_ticker_data.json"))
+              record = ticker.get("record", "--")
+              sgp    = ticker.get("sgp", "--")
+          except:
+              record, sgp = "--", "--"
+
+          msg = (
+              f"**:basketball: InsideProps Picks are LIVE for {day}, {date}**\n"
+              f"Today's NBA, NHL, and MLB plays are posted with full analysis.\n\n"
+              f"> :chart_with_upwards_trend: Season record: **{record}**\n"
+              f"> :trophy: SGP: **{sgp}**\n\n"
+              f"View all picks: https://insideprops.com/#picks\n"
+              f"Free picks visible on site. Upgrade for full slate."
+          )[:1900]
+
+          url = os.environ["DISCORD_WEBHOOK_URL"]
+          r   = requests.post(url, json={"content": msg, "username": "InsideProps Bot"})
+          print(f"Discord: {r.status_code} {r.text[:100]}")
+          PYEOF
+        continue-on-error: true
+
+      # ── 9. Summary ───────────────────────────────────────────────────────────
+      - name: Print summary
+        run: |
+          echo "=== InsideProps Daily Run Complete ==="
+          echo "Date: $(TZ='America/Denver' date +'%B %-d, %Y %I:%M %p MT')"
