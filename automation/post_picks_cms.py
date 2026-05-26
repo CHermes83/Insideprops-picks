@@ -38,6 +38,23 @@ WF_HEADERS = {
     "accept": "application/json",
     "content-type": "application/json",
 }
+
+def resolve_collection_id():
+    """Look up the Picks collection ID dynamically by name — avoids stale hardcoded IDs."""
+    try:
+        r = requests.get(f"{API_BASE}/sites/{SITE_ID}/collections", headers=WF_HEADERS, timeout=10)
+        r.raise_for_status()
+        for col in r.json().get("collections", []):
+            if col.get("displayName", "").lower() in ("picks", "pick", "daily picks"):
+                cid = col["id"]
+                print(f"  ✅  Found Picks collection: {col['displayName']} ({cid})")
+                return cid
+        # fallback: show all collections so we can debug
+        names = [(c.get("displayName"), c.get("id")) for c in r.json().get("collections", [])]
+        print(f"  ⚠️  Could not find 'Picks' collection. Available: {names}")
+    except Exception as e:
+        print(f"  ⚠️  Could not resolve collection ID: {e}")
+    return COLLECTION_ID   # fall back to env/config value
 ESPN_HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; InsideProps/1.0)",
     "Accept": "application/json",
@@ -152,87 +169,105 @@ def extract_game(event):
         d = {}
         for rec in c.get("records", []):
             key = (rec.get("type") or rec.get("name", "")).lower()
-            d[key] = rec.get("summary", "0-0")
+            return key
         return d
 
-    hr, ar = recs(home), recs(away)
-    h_ov = hr.get("total") or hr.get("overall") or "0-0"
-    a_ov = ar.get("total") or ar.get("overall") or "0-0"
-    hw, hl, hpct  = parse_record(h_ov)
-    aw, al, apct  = parse_record(a_ov)
-    _, _, hhpct   = parse_record(hr.get("home", "0-0"))
-    _, _, arpct   = parse_record(ar.get("road") or ar.get("away") or "0-0")
-    _, _, ahhpct  = parse_record(ar.get("home", "0-0"))
-    _, _, hrhpct  = parse_record(hr.get("road") or hr.get("away") or "0-0")
+    hrecs = recs(home)
+    arecs = recs(away)
+    hwins, hlosses, hpct = parse_record(hrecs.get("total", "0-0"))
+    awins, alosses, apct = parse_record(arecs.get("total", "0-0"))
+    hwins, hlosses, hhpct = parse_record(hrecs.get("home", "0-0"))
+    awins, alosses, arpct = parse_record(arecs.get("road", "0-0"))
 
-    odds = comp.get("odds", [{}])[0] if comp.get("odds") else {}
-    ho, ao = odds.get("homeTeamOdds", {}), odds.get("awayTeamOdds", {})
+    home_rec = hrecs.get("total", "0-0")
+    away_rec = arecs.get("total", "0-0")
+    home_hrec = hrecs.get("home", "0-0")
+    away_rrec = arecs.get("road", "0-0")
+
+    h_team = home.get("team", {})
+    a_team = away.get("team", {})
+
+    def spread_from_odds(odds_list, homeAway):
+        for o in odds_list:
+            overunder = o.get("overunder")
+            spread = o.get("spread")
+            home_spread = o.get("homeTeamOdds", {}).get("spreadOdds", {}).get("value")
+            away_spread = o.get("awayTeamOdds", {}).get("spreadOdds", {}).get("value")
+            if overunder or spread or home_spread or away_spread:
+                return overunder, home_spread, away_spread, spread
+        return None, None, None, None
+
+    odds_list = comp.get("odds", [])
+    total, h_spread, a_spread, spread_str = spread_from_odds(odds_list, "home")
+    home_favored = (hpct >= apct)
 
     return {
-        "id":    event.get("id", ""),
-        "name":  event.get("name", ""),
-        "short": event.get("shortName", ""),
-        "home":  {
-            "name": home.get("team", {}).get("displayName", "Home"),
-            "abbr": home.get("team", {}).get("abbreviation", "HOM"),
-            "id":   home.get("team", {}).get("id", ""),
-            "overall": h_ov, "home_rec": hr.get("home", "--"),
-            "w": hw, "l": hl, "pct": hpct, "home_pct": hhpct,
+        "home": {
+            "id":         h_team.get("id", ""),
+            "name":       h_team.get("displayName", "?"),
+            "abbr":       h_team.get("abbreviation", "?"),
+            "overall":    home_rec,
+            "home_rec":   home_hrec,
+            "road_rec":   away_rrec,
+            "pct":        hpct,
+            "home_pct":   hhpct,
+            "road_pct":   arpct,
         },
-        "away":  {
-            "name": away.get("team", {}).get("displayName", "Away"),
-            "abbr": away.get("team", {}).get("abbreviation", "AWY"),
-            "id":   away.get("team", {}).get("id", ""),
-            "overall": a_ov, "road_rec": ar.get("road") or ar.get("away") or "--",
-            "w": aw, "l": al, "pct": apct, "road_pct": arpct,
+        "away": {
+            "id":         a_team.get("id", ""),
+            "name":       a_team.get("displayName", "?"),
+            "abbr":       a_team.get("abbreviation", "?"),
+            "overall":    away_rec,
+            "home_rec":   away_rrec,
+            "road_rec":   away_rrec,
+            "pct":        apct,
+            "home_pct":   hhpct,
+            "road_pct":   arpct,
         },
-        "spread_str": odds.get("details", ""),
-        "home_spread": ho.get("spreadOdds", 0) or 0,
-        "away_spread": ao.get("spreadOdds", 0) or 0,
-        "home_favored": ho.get("favorite", True),
-        "total": odds.get("overUnder"),
+        "total":         total,
+        "home_spread":   h_spread,
+        "away_spread":   a_spread,
+        "spread_str":    spread_str,
+        "home_favored":   home_favored,
+        "short":         event.get("shortName", ""),
     }
 
-# ─── Pick generators (same analysis as GitHub site) ───────────────────────────
+# ─── Pick logic ───────────────────────────────────────────────────────────────────────
 def confidence_label(score):
-    if score >= 0.66: return "HIGH"
-    if score >= 0.53: return "MEDIUM"
+    if score >= 0.62: return "HIGH"
+    if score >= 0.55: return "MEDIUM"
     return "LOW"
 
-def injury_notes(injuries, team_id):
-    notes = []
-    for p in injuries.get(team_id, []):
-        if any(x in p.get("status", "").lower() for x in ("out", "doubtful", "questionable")):
-            notes.append(f"{p['name']} ({p.get('status','')})")
-    return notes[:2]
+def _half_line(v):
+    b = math.floor(v)
+    return f"{b + 0.5}"
 
-def _half_line(val):
-    return round(val * 2) / 2
+def injury_notes(injuries, team_id):
+    entries = injuries.get(str(team_id), [])
+    return [e["name"] for e in entries if e.get("status", "").lower() in ("out", "doubtful")][:3]
 
 def nba_spread_pick(g, injuries=None):
     home, away = g["home"], g["away"]
     injuries = injuries or {}
-    h_score = home["home_pct"] + 0.03 + (home["pct"] - 0.5) * 0.18
-    a_score = away["road_pct"]        + (away["pct"] - 0.5) * 0.18
     h_inj = injury_notes(injuries, home["id"])
     a_inj = injury_notes(injuries, away["id"])
-    h_score -= len(h_inj) * 0.025
-    a_score -= len(a_inj) * 0.025
-    def fmt_spread(spread, spread_str):
-        if not spread_str or spread == 0: return ""
-        return f"-{abs(spread):.1f}" if spread < 0 else f"+{abs(spread):.1f}"
+    h_score = home["home_pct"] + 0.04 + (home["pct"] - 0.5) * 0.12 - len(h_inj) * 0.025
+    a_score = away["road_pct"]         + (away["pct"] - 0.5) * 0.12 - len(a_inj) * 0.025
+    diff = h_score - a_score
+    if abs(diff) < 0.03:
+        return f"{home['abbr']} -3.5", "SPREAD", "LOW", f"Tight matchup. Take the home team in a pick-em for a small edge."
     if h_score >= a_score:
-        spread_disp = fmt_spread(g["home_spread"], g["spread_str"])
-        pick_str = f"{home['abbr']} {spread_disp}".strip() if spread_disp else f"{home['name']} ML"
-        inj_note = f" Note: {', '.join(a_inj)} are banged up for {away['abbr']}." if a_inj else ""
-        analysis = (f"{home['name']} is {home['overall']} overall and {home['home_rec']} at home. "
-                    f"{away['name']} comes in {away['road_rec']} on the road.{inj_note}")
+        spread = g["home_spread"]
+        pick_str = f"{home['abbr']} {(f"- {abs(spread):.1f}" if spread and spread < 0 else "-3.5")}"
+        inj_note = f" {away['abbr']} missing {', '.join(a_inj)}." if a_inj else ""
+        analysis = (f"{home['name']} ({home['overall']}) is {home['home_rec']} at home. "
+                    f"They're the sharper club.{inj_note}")
         return pick_str, "SPREAD", confidence_label(h_score), analysis
     else:
-        spread_disp = fmt_spread(g["away_spread"], g["spread_str"])
-        pick_str = f"{away['abbr']} {spread_disp}".strip() if spread_disp else f"{away['name']} ML"
-        inj_note = f" Note: {', '.join(h_inj)} are limited for {home['abbr']}." if h_inj else ""
-        analysis = (f"{away['name']} at {away['overall']} is the sharper club. "
+        spread = g["away_spread"]
+        pick_str = f"{away['abbr']} {(f"+{abs(spread):.1f}" if spread and spread > 0 else "+4.5")}"
+        inj_note = f" {home['abbr']} scorers are limited for {home['abbr']}." if h_inj else ""
+        analysis = (f"{home['name']} ({home['overall']}) is {home['home_rec']} at home. "
                     f"They're {away['road_rec']} on the road.{inj_note}")
         return pick_str, "SPREAD", confidence_label(a_score), analysis
 
@@ -304,15 +339,7 @@ def nhl_picks(g, injuries=None):
     home, away = g["home"], g["away"]
     injuries = injuries or {}
     h_inj = injury_notes(injuries, home["id"])
-    a_inj = injury_notes(injuries, away["id"])
-    h_score = home["home_pct"] + 0.055 + (home["pct"] - 0.5) * 0.14 - len(h_inj) * 0.03
-    a_score = away["road_pct"]         + (away["pct"] - 0.5) * 0.14 - len(a_inj) * 0.03
-    picks = []
-
-    diff = abs(h_score - a_score)
-    if diff < 0.05:
-        dog = away if h_score >= a_score else home
-        picks.append((f"{dog['abbr']} +1.5", "MONEYLINE", "MEDIUM",
+    a_inj = injury_notesM",
                       f"Dead-even matchup. Take the puck line underdog — most NHL games stay within a goal."))
     elif h_score > a_score:
         inj = f" {away['abbr']} missing {', '.join(a_inj)}." if a_inj else ""
@@ -399,7 +426,34 @@ def make_slug(text):
     slug = re.sub(r'-+', '-', slug)
     return slug[:80]
 
-def post_pick_to_cms(pick_name, sport, line_text, tier):
+# Sport accent colours (match GitHub site palette)
+SPORT_COLORS = {
+    "NBA":   "#f97316",   # orange
+    "NHL":   "#3b82f6",   # blue
+    "MLB":   "#22c55e",   # green
+    "NCAAB": "#a855f7",   # purple
+}
+CONF_COLORS = {"HIGH": "#22c55e", "MEDIUM": "#f97316", "LOW": "#94a3b8"}
+
+def build_line_html(pick, ptype, conf, analysis, sport, matchup):
+    """Build a GitHub-site-style HTML card for the Webflow Rich Text 'line' field."""
+    sport_color = SPORT_COLORS.get(sport, "#6366f1")
+    conf_color  = CONF_COLORS.get(conf, "#94a3b8")
+    tier_icon   = "🔓" if ptype != "PLAYER PROP" else "🔒"
+    return f"""<div style="font-family:system-ui,sans-serif;border:1px solid #e2e8f0;border-radius:12px;padding:20px;background:#0f172a;color:#f8fafc;max-width:480px;">
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;">
+    <span style="background:{sport_color}22;color:{sport_color};padding:3px 10px;border-radius:20px;font-size:12px;font-weight:700;letter-spacing:.5px;">{sport}</span>
+    <span style="color:#94a3b8;font-size:12px;">{matchup} · {DATE_DISPLAY}</span>
+  </div>
+  <div style="font-size:22px;font-weight:800;margin-bottom:4px;color:#f8fafc;">{tier_icon} {pick}</div>
+  <div style="font-size:12px;color:#64748b;margin-bottom:12px;text-transform:uppercase;letter-spacing:.5px;">{ptype}</div>
+  <div style="display:flex;gap:8px;margin-bottom:14px;">
+    <span style="background:{conf_color}22;color:{conf_color};padding:2px 10px;border-radius:20px;font-size:11px;font-weight:700;">● {conf} CONFIDENCE</span>
+  </div>
+  <p style="color:#cbd5e1;font-size:14px;line-height:1.6;margin:0;">{analysis}</p>
+</div>"""
+
+def post_pick_to_cms(pick_name, sport, line_html, tier, _col_id):
     """
     Create a single pick item in the Webflow CMS Picks collection.
     Result is intentionally left blank (to be filled in after game).
@@ -413,18 +467,17 @@ def post_pick_to_cms(pick_name, sport, line_text, tier):
             "slug":      slug,
             "pick-date": DATE_ISO,
             "sport":     sport,
-            "line":      line_text,
+            "line":      line_html,
             "tier":      tier.lower(),      # "free" or "premium"
             # result is intentionally omitted (pending)
         },
         "isDraft": False,
     }
 
-    url = f"{API_BASE}/collections/{COLLECTION_ID}/items"
+    url = f"{API_BASE}/collections/{_col_id}/items"
     try:
         r = requests.post(url, headers=WF_HEADERS, json=payload, timeout=15)
         if r.status_code in (200, 201):
-            item = r.json()
             print(f"  ✅  [{tier.upper()}] {pick_name}")
             return True
         else:
@@ -453,6 +506,10 @@ def main():
     posted = 0
     failed = 0
 
+    # Resolve the collection ID once at startup
+    col_id = resolve_collection_id()
+    print(f"  Using collection ID: {col_id}\n")
+
     # ── NBA ───────────────────────────────────────────────────────────────────
     print("📊  Fetching NBA games...")
     nba_events  = espn_scoreboard("basketball", "nba")
@@ -467,15 +524,15 @@ def main():
         # Spread (Free)
         pick, ptype, conf, analysis = nba_spread_pick(g, nba_injuries)
         name = f"{pick} ({matchup}) — {DATE_DISPLAY}"
-        line_text = f"{pick}\n\nType: {ptype} | Confidence: {conf}\n\n{analysis}"
-        if post_pick_to_cms(name, "NBA", line_text, "Free"): posted += 1
+        line_html = build_line_html(pick, ptype, conf, analysis, "NBA", matchup)
+        if post_pick_to_cms(name, "NBA", line_html, "Free", col_id): posted += 1
         else: failed += 1
 
         # Total (Free)
         pick, ptype, conf, analysis = nba_total_pick(g)
         name = f"{pick} ({matchup}) — {DATE_DISPLAY}"
-        line_text = f"{pick}\n\nType: {ptype} | Confidence: {conf}\n\n{analysis}"
-        if post_pick_to_cms(name, "NBA", line_text, "Free"): posted += 1
+        line_html = build_line_html(pick, ptype, conf, analysis, "NBA", matchup)
+        if post_pick_to_cms(name, "NBA", line_html, "Free", col_id): posted += 1
         else: failed += 1
 
         # Player props (Premium)
@@ -487,8 +544,8 @@ def main():
 
         for pick, ptype, conf, analysis in nba_player_props(g, home_leaders, away_leaders):
             name = f"{pick} ({matchup}) — {DATE_DISPLAY}"
-            line_text = f"{pick}\n\nType: {ptype} | Confidence: {conf}\n\n{analysis}"
-            if post_pick_to_cms(name, "NBA", line_text, "Premium"): posted += 1
+            line_html = build_line_html(pick, ptype, conf, analysis, "NBA", matchup)
+            if post_pick_to_cms(name, "NBA", line_html, "Premium", col_id): posted += 1
             else: failed += 1
 
     # ── NHL ───────────────────────────────────────────────────────────────────
@@ -503,8 +560,8 @@ def main():
         matchup = g["short"] or f"{away['abbr']} @ {home['abbr']}"
         for pick, ptype, conf, analysis in nhl_picks(g, nhl_injuries):
             name = f"{pick} ({matchup}) — {DATE_DISPLAY}"
-            line_text = f"{pick}\n\nType: {ptype} | Confidence: {conf}\n\n{analysis}"
-            if post_pick_to_cms(name, "NHL", line_text, "Free"): posted += 1
+            line_html = build_line_html(pick, ptype, conf, analysis, "NHL", matchup)
+            if post_pick_to_cms(name, "NHL", line_html, "Free", col_id): posted += 1
             else: failed += 1
 
     # ── MLB ───────────────────────────────────────────────────────────────────
@@ -519,8 +576,8 @@ def main():
         matchup = g["short"] or f"{away['abbr']} @ {home['abbr']}"
         for pick, ptype, conf, analysis in mlb_picks(g, mlb_injuries):
             name = f"{pick} ({matchup}) — {DATE_DISPLAY}"
-            line_text = f"{pick}\n\nType: {ptype} | Confidence: {conf}\n\n{analysis}"
-            if post_pick_to_cms(name, "MLB", line_text, "Free"): posted += 1
+            line_html = build_line_html(pick, ptype, conf, analysis, "MLB", matchup)
+            if post_pick_to_cms(name, "MLB", line_html, "Free", col_id): posted += 1
             else: failed += 1
 
     # ── NCAAB (only in season: Nov–Apr) ──────────────────────────────────────
@@ -534,8 +591,8 @@ def main():
             matchup = g["short"] or f"{away['abbr']} @ {home['abbr']}"
             for pick, ptype, conf, analysis in ncaab_pick(g):
                 name = f"{pick} ({matchup}) — {DATE_DISPLAY}"
-                line_text = f"{pick}\n\nType: {ptype} | Confidence: {conf}\n\n{analysis}"
-                if post_pick_to_cms(name, "NCAAB", line_text, "Free"): posted += 1
+                line_html = build_line_html(pick, ptype, conf, analysis, "NCAAB", matchup)
+                if post_pick_to_cms(name, "NCAAB", line_html, "Free", col_id): posted += 1
                 else: failed += 1
 
     # ── Summary & Publish ─────────────────────────────────────────────────────
