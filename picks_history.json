@@ -7539,5 +7539,132 @@
     "pick": "Carolina Hurricanes ML +125 / Los Angeles Dodgers ML +325 / Cleveland Guardians ML +156 / Milwaukee Brewers ML +125 / Arizona Diamondbacks -1.5",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-05-28",
+    "sport": "NBA",
+    "pick": "Oklahoma City Thunder ML +135",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "OKC @ SAS"
+  },
+  {
+    "date": "2026-05-28",
+    "sport": "NBA",
+    "pick": "Oklahoma City Thunder +3.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "OKC @ SAS"
+  },
+  {
+    "date": "2026-05-28",
+    "sport": "NBA",
+    "pick": "Over 219.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "OKC @ SAS"
+  },
+  {
+    "date": "2026-05-28",
+    "sport": "MLB",
+    "pick": "Los Angeles Angels ML +110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAA @ DET"
+  },
+  {
+    "date": "2026-05-28",
+    "sport": "MLB",
+    "pick": "Los Angeles Angels +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAA @ DET"
+  },
+  {
+    "date": "2026-05-28",
+    "sport": "MLB",
+    "pick": "Chicago White Sox ML +118",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CWS @ MIN"
+  },
+  {
+    "date": "2026-05-28",
+    "sport": "MLB",
+    "pick": "Chicago White Sox +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CWS @ MIN"
+  },
+  {
+    "date": "2026-05-28",
+    "sport": "MLB",
+    "pick": "Boston Red Sox ML +120",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATL @ BOS"
+  },
+  {
+    "date": "2026-05-28",
+    "sport": "MLB",
+    "pick": "Boston Red Sox +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATL @ BOS"
+  },
+  {
+    "date": "2026-05-28",
+    "sport": "MLB",
+    "pick": "Toronto Blue Jays ML +110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "TOR @ BAL"
+  },
+  {
+    "date": "2026-05-28",
+    "sport": "MLB",
+    "pick": "Toronto Blue Jays +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "TOR @ BAL"
+  },
+  {
+    "date": "2026-05-28",
+    "sport": "MLB",
+    "pick": "Pittsburgh Pirates ML +142",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PIT @ CHC"
+  },
+  {
+    "date": "2026-05-28",
+    "sport": "MLB",
+    "pick": "Pittsburgh Pirates +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PIT @ CHC"
+  },
+  {
+    "date": "2026-05-28",
+    "sport": "MLB",
+    "pick": "Houston Astros ML +125",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "HOU @ TEX"
+  },
+  {
+    "date": "2026-05-28",
+    "sport": "MLB",
+    "pick": "Houston Astros +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "HOU @ TEX"
+  },
+  {
+    "date": "2026-05-28",
+    "sport": "PARLAY",
+    "pick": "Oklahoma City Thunder ML +135 / Toronto Blue Jays ML +110 / Houston Astros ML +125 / Los Angeles Angels ML +110 / Chicago White Sox ML +118",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
