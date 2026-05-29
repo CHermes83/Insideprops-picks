@@ -7666,5 +7666,268 @@
     "pick": "Oklahoma City Thunder ML +135 / Toronto Blue Jays ML +110 / Houston Astros ML +125 / Los Angeles Angels ML +110 / Chicago White Sox ML +118",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "NHL",
+    "pick": "Carolina Hurricanes -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MTL @ CAR"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "NHL",
+    "pick": "Carolina Hurricanes ML -247",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MTL @ CAR"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Cincinnati Reds ML +125",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATL @ CIN"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Cincinnati Reds +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATL @ CIN"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Washington Nationals -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "WSH @ SD"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Washington Nationals ML -110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "WSH @ SD"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Pittsburgh Pirates ML +115",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PIT @ MIN"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Pittsburgh Pirates +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PIT @ MIN"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Toronto Blue Jays -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "TOR @ BAL"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Toronto Blue Jays ML -107",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "TOR @ BAL"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Miami Marlins ML +105",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIA @ NYM"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Miami Marlins +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIA @ NYM"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Cleveland Guardians +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CLE @ BOS"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Cleveland Guardians ML -100",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CLE @ BOS"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Los Angeles Angels ML +149",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAA @ TB"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Los Angeles Angels +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAA @ TB"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Chicago Cubs ML +119",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "STL @ CHC"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Under 8.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "STL @ CHC"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Chicago White Sox +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "DET @ CWS"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Chicago White Sox ML -101",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "DET @ CWS"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Kansas City Royals ML +108",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "KC @ TEX"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Kansas City Royals +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "KC @ TEX"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Milwaukee Brewers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "HOU @ MIL"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Milwaukee Brewers ML -100",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "HOU @ MIL"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Colorado Rockies ML +140",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SF @ COL"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Under 10.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "SF @ COL"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "New York Yankees ML +125",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATH @ NYY"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "New York Yankees +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATH @ NYY"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Arizona Diamondbacks ML +127",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ARI @ SEA"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Arizona Diamondbacks +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ARI @ SEA"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Los Angeles Dodgers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PHI @ LAD"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "MLB",
+    "pick": "Los Angeles Dodgers ML -118",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PHI @ LAD"
+  },
+  {
+    "date": "2026-05-29",
+    "sport": "PARLAY",
+    "pick": "Arizona Diamondbacks ML +127 / Los Angeles Angels ML +149 / New York Yankees ML +125 / Carolina Hurricanes -1.5 / Los Angeles Dodgers +1.5",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
