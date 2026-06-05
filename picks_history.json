@@ -9427,5 +9427,292 @@
     "pick": "Under 214.5 / Under 6.0 / Under 8.0 / Under 8.5 / Under 10.5",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "NBA",
+    "pick": "Under 215.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "NYK @ SAS"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "NBA",
+    "pick": "New York Knicks ML +185",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NYK @ SAS"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "NBA",
+    "pick": "New York Knicks +6.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NYK @ SAS"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "NHL",
+    "pick": "Under 5.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "CAR @ VGK"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "NHL",
+    "pick": "Vegas Golden Knights +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CAR @ VGK"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Under 11.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "SF @ CHC"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "San Francisco Giants ML +139",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SF @ CHC"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Under 8.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "SEA @ DET"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Detroit Tigers ML +114",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SEA @ DET"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Under 8.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "PHI @ CWS"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Philadelphia Phillies ML +156",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PHI @ CWS"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Under 8.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "BOS @ NYY"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Boston Red Sox ML +121",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "BOS @ NYY"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Under 8.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "TOR @ BAL"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Toronto Blue Jays ML +125",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "TOR @ BAL"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Under 7.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "MIA @ TB"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Tampa Bay Rays ML +116",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIA @ TB"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Under 8.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "ATL @ PIT"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Atlanta Braves ML +120",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATL @ PIT"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Under 9.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "HOU @ ATH"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Athletics +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "HOU @ ATH"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Under 9.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "STL @ CIN"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "St. Louis Cardinals ML +118",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "STL @ CIN"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Under 7.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "CLE @ TEX"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Texas Rangers ML +118",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CLE @ TEX"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Under 8.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "KC @ MIN"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Minnesota Twins +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "KC @ MIN"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Under 11.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "MIL @ COL"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Colorado Rockies ML +125",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIL @ COL"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Under 7.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "NYM @ SD"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "New York Mets ML +110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NYM @ SD"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Under 9.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "ARI @ WSH"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Arizona Diamondbacks ML +111",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ARI @ WSH"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Under 8.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "LAA @ LAD"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "MLB",
+    "pick": "Los Angeles Angels ML +167",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAA @ LAD"
+  },
+  {
+    "date": "2026-06-05",
+    "sport": "PARLAY",
+    "pick": "Under 215.0 / Under 5.5 / Under 11.0 / Under 8.0 / Under 8.5",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
