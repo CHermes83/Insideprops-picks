@@ -13984,5 +13984,236 @@
     "pick": "Minnesota Twins ML +144 / Houston Astros ML +115 / Miami Marlins ML +125 / Washington Nationals ML +139 / Colorado Rockies ML +135",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Texas Rangers ML +105",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIA @ TEX"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Texas Rangers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIA @ TEX"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Chicago White Sox +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CLE @ CWS"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Chicago White Sox ML -101",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CLE @ CWS"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Colorado Rockies ML +142",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "BOS @ COL"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Colorado Rockies +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "BOS @ COL"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Los Angeles Angels ML +104",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAA @ BAL"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Los Angeles Angels +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAA @ BAL"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Detroit Tigers ML +120",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "DET @ NYY"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Detroit Tigers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "DET @ NYY"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Seattle Mariners -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "SEA @ PIT"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Seattle Mariners ML -102",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SEA @ PIT"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Kansas City Royals -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "TB @ KC"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Kansas City Royals ML -149",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "TB @ KC"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Washington Nationals ML +111",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PHI @ WSH"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Washington Nationals +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PHI @ WSH"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Houston Astros ML +135",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "HOU @ TOR"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Houston Astros +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "HOU @ TOR"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Cincinnati Reds ML +125",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIL @ CIN"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Cincinnati Reds +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIL @ CIN"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Minnesota Twins ML +150",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAD @ MIN"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "Minnesota Twins +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAD @ MIN"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "St. Louis Cardinals +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ARI @ STL"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "St. Louis Cardinals ML -119",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ARI @ STL"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "San Diego Padres ML +108",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATL @ SD"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "San Diego Padres +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATL @ SD"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "San Francisco Giants ML +110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATH @ SF"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "MLB",
+    "pick": "San Francisco Giants +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATH @ SF"
+  },
+  {
+    "date": "2026-06-24",
+    "sport": "PARLAY",
+    "pick": "Washington Nationals ML +111 / Houston Astros ML +135 / Minnesota Twins ML +150 / San Diego Padres ML +108 / Colorado Rockies ML +142",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
