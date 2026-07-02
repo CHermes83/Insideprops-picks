@@ -15784,5 +15784,156 @@
     "pick": "Chicago Cubs ML +105 / Philadelphia Phillies ML +115 / Houston Astros ML +106 / Milwaukee Brewers ML +137 / Los Angeles Dodgers ML +140",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "Philadelphia Phillies ML +109",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PHI @ PIT"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "Philadelphia Phillies +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PHI @ PIT"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "Milwaukee Brewers ML +166",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIL @ CIN"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "Milwaukee Brewers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIL @ CIN"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "Miami Marlins -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIA @ COL"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "Miami Marlins ML -125",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIA @ COL"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "Chicago White Sox +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CLE @ CWS"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "Chicago White Sox ML -100",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CLE @ CWS"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "St. Louis Cardinals +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATL @ STL"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "St. Louis Cardinals ML -113",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATL @ STL"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "Tampa Bay Rays -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "TB @ KC"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "Tampa Bay Rays ML -121",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "TB @ KC"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "Detroit Tigers ML +110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "DET @ TEX"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "Detroit Tigers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "DET @ TEX"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "Los Angeles Angels ML +177",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAA @ SEA"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "Los Angeles Angels +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAA @ SEA"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "Los Angeles Dodgers ML +158",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAD @ SD"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "MLB",
+    "pick": "Los Angeles Dodgers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAD @ SD"
+  },
+  {
+    "date": "2026-07-02",
+    "sport": "PARLAY",
+    "pick": "Milwaukee Brewers ML +166 / Philadelphia Phillies ML +109 / Los Angeles Dodgers ML +158 / Los Angeles Angels ML +177 / Tampa Bay Rays -1.5",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
