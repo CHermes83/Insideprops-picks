@@ -19573,5 +19573,220 @@
     "pick": "Boston Red Sox ML +105 / Milwaukee Brewers ML +105 / Detroit Tigers +1.5 / Houston Astros ML +110 / San Francisco Giants ML +119",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "New York Knicks -7.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NYK @ DET"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "New York Knicks ML -320",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NYK @ DET"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Over 169.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "NYK @ DET"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Toronto Raptors ML +135",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "IND @ TOR"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Toronto Raptors +3.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "IND @ TOR"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Under 184.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "IND @ TOR"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Atlanta Hawks ML +155",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "BOS @ ATL"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Atlanta Hawks +4.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "BOS @ ATL"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Under 176.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "BOS @ ATL"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Dallas Mavericks ML +340",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "DAL @ MEM"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Dallas Mavericks +9.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "DAL @ MEM"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Under 178.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "DAL @ MEM"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Miami Heat +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIA @ CLE"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Miami Heat ML -105",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIA @ CLE"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Under 180.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "MIA @ CLE"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Utah Jazz ML +150",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CHI @ UTA"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Utah Jazz +4.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CHI @ UTA"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Under 181.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "CHI @ UTA"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Phoenix Suns ML +156",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIL @ PHX"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Phoenix Suns +4.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIL @ PHX"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Under 176.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "MIL @ PHX"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Portland Trail Blazers ML +175",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIN @ POR"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Under 180.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "MIN @ POR"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "NBA",
+    "pick": "Portland Trail Blazers +5.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIN @ POR"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "MLB",
+    "pick": "American League ML +115",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "AL @ NL"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "MLB",
+    "pick": "American League +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "AL @ NL"
+  },
+  {
+    "date": "2026-07-13",
+    "sport": "PARLAY",
+    "pick": "Toronto Raptors ML +135 / New York Knicks -7.5 / Atlanta Hawks ML +155 / Dallas Mavericks ML +340 / American League ML +115",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
