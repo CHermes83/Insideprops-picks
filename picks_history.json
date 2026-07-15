@@ -19955,5 +19955,204 @@
     "pick": "Brooklyn Nets ML +118 / Under 186.5 / American League ML +110 / Philadelphia 76ers ML +156 / Los Angeles Lakers ML +136",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Indiana Pacers ML +102",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "IND @ MIN"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Under 185.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "IND @ MIN"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Indiana Pacers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "IND @ MIN"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Philadelphia 76ers ML +135",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ORL @ PHI"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Philadelphia 76ers +3.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ORL @ PHI"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Under 186.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "ORL @ PHI"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "New Orleans Pelicans ML +136",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NOP @ CLE"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Under 179.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "NOP @ CLE"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "New Orleans Pelicans +3.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NOP @ CLE"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Detroit Pistons ML +120",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PHX @ DET"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Under 175.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "PHX @ DET"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Detroit Pistons +2.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PHX @ DET"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Charlotte Hornets ML +172",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CHA @ MIL"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Charlotte Hornets +5.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CHA @ MIL"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Under 178.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "CHA @ MIL"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Sacramento Kings ML +104",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "BOS @ SAC"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Sacramento Kings +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "BOS @ SAC"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Under 178.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "BOS @ SAC"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Utah Jazz ML +136",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SAS @ UTA"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Under 176.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "SAS @ UTA"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Utah Jazz +3.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "SAS @ UTA"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Under 180.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "LAC @ WAS"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Los Angeles Clippers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAC @ WAS"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "NBA",
+    "pick": "Los Angeles Clippers ML -100",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAC @ WAS"
+  },
+  {
+    "date": "2026-07-15",
+    "sport": "PARLAY",
+    "pick": "Charlotte Hornets ML +172 / Sacramento Kings ML +104 / Indiana Pacers ML +102 / Philadelphia 76ers ML +135 / New Orleans Pelicans ML +136",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
