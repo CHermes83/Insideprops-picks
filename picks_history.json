@@ -20154,5 +20154,196 @@
     "pick": "Charlotte Hornets ML +172 / Sacramento Kings ML +104 / Indiana Pacers ML +102 / Philadelphia 76ers ML +135 / New Orleans Pelicans ML +136",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Oklahoma City Thunder -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "DAL @ OKC"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Oklahoma City Thunder ML -115",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "DAL @ OKC"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Under 180.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "DAL @ OKC"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Brooklyn Nets ML +124",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "HOU @ BKN"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Brooklyn Nets +2.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "HOU @ BKN"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Under 180.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "HOU @ BKN"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Los Angeles Lakers ML +140",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CHI @ LAL"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Los Angeles Lakers +3.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CHI @ LAL"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Under 181.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "CHI @ LAL"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "New York Knicks ML +225",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "GSW @ NYK"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "New York Knicks +7.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "GSW @ NYK"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Over 171.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "GSW @ NYK"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Atlanta Hawks ML +135",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATL @ MEM"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Atlanta Hawks +3.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATL @ MEM"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Under 183.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "ATL @ MEM"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Toronto Raptors ML +124",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIA @ TOR"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Toronto Raptors +2.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIA @ TOR"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Over 180.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "MIA @ TOR"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Denver Nuggets ML +116",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "DEN @ POR"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Under 182.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "DEN @ POR"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "NBA",
+    "pick": "Denver Nuggets +2.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "DEN @ POR"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "MLB",
+    "pick": "Philadelphia Phillies ML +110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PHI @ NYM"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "MLB",
+    "pick": "Philadelphia Phillies +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PHI @ NYM"
+  },
+  {
+    "date": "2026-07-16",
+    "sport": "PARLAY",
+    "pick": "New York Knicks ML +225 / Toronto Raptors ML +124 / Philadelphia Phillies ML +110 / Brooklyn Nets ML +124 / Atlanta Hawks ML +135",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
