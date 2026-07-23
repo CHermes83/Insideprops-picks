@@ -22251,5 +22251,92 @@
     "pick": "Boston Red Sox ML +118 / Cleveland Guardians ML +105 / Pittsburgh Pirates ML +140 / New York Mets ML +118 / Arizona Diamondbacks -1.5",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-07-23",
+    "sport": "MLB",
+    "pick": "Atlanta Braves ML +210",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATL @ SD"
+  },
+  {
+    "date": "2026-07-23",
+    "sport": "MLB",
+    "pick": "Atlanta Braves +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATL @ SD"
+  },
+  {
+    "date": "2026-07-23",
+    "sport": "MLB",
+    "pick": "Cleveland Guardians ML +118",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CLE @ MIN"
+  },
+  {
+    "date": "2026-07-23",
+    "sport": "MLB",
+    "pick": "Cleveland Guardians +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CLE @ MIN"
+  },
+  {
+    "date": "2026-07-23",
+    "sport": "MLB",
+    "pick": "Tampa Bay Rays -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "TB @ TOR"
+  },
+  {
+    "date": "2026-07-23",
+    "sport": "MLB",
+    "pick": "Tampa Bay Rays ML -108",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "TB @ TOR"
+  },
+  {
+    "date": "2026-07-23",
+    "sport": "MLB",
+    "pick": "Arizona Diamondbacks ML +105",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ARI @ STL"
+  },
+  {
+    "date": "2026-07-23",
+    "sport": "MLB",
+    "pick": "Arizona Diamondbacks +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ARI @ STL"
+  },
+  {
+    "date": "2026-07-23",
+    "sport": "MLB",
+    "pick": "Kansas City Royals ML +169",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "KC @ DET"
+  },
+  {
+    "date": "2026-07-23",
+    "sport": "MLB",
+    "pick": "Kansas City Royals +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "KC @ DET"
+  },
+  {
+    "date": "2026-07-23",
+    "sport": "PARLAY",
+    "pick": "Arizona Diamondbacks ML +105 / Cleveland Guardians ML +118 / Atlanta Braves ML +210 / Kansas City Royals ML +169 / Tampa Bay Rays -1.5",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
