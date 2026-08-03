@@ -24712,5 +24712,140 @@
     "pick": "Houston Astros ML +106 / Atlanta Braves ML +105 / Tampa Bay Rays ML +125 / Arizona Diamondbacks ML +125 / Chicago Cubs ML +109",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "MLB",
+    "pick": "Philadelphia Phillies ML +125",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PHI @ WSH"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "MLB",
+    "pick": "Philadelphia Phillies +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PHI @ WSH"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "MLB",
+    "pick": "New York Yankees -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "STL @ NYY"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "MLB",
+    "pick": "New York Yankees ML -200",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "STL @ NYY"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "MLB",
+    "pick": "Milwaukee Brewers ML +125",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIL @ PIT"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "MLB",
+    "pick": "Milwaukee Brewers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIL @ PIT"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "MLB",
+    "pick": "San Francisco Giants -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "SF @ TEX"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "MLB",
+    "pick": "San Francisco Giants ML -110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SF @ TEX"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "MLB",
+    "pick": "Chicago Cubs ML +105",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAD @ CHC"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "MLB",
+    "pick": "Chicago Cubs +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAD @ CHC"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "MLB",
+    "pick": "Houston Astros ML +111",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "HOU @ TOR"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "MLB",
+    "pick": "Houston Astros +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "HOU @ TOR"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "MLB",
+    "pick": "Colorado Rockies ML +140",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "TB @ COL"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "MLB",
+    "pick": "Colorado Rockies +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "TB @ COL"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "MLB",
+    "pick": "San Diego Padres +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ARI @ SD"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "MLB",
+    "pick": "San Diego Padres ML -115",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ARI @ SD"
+  },
+  {
+    "date": "2026-08-03",
+    "sport": "PARLAY",
+    "pick": "Houston Astros ML +111 / Milwaukee Brewers ML +125 / Chicago Cubs ML +105 / San Diego Padres +1.5 / Colorado Rockies ML +140",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
