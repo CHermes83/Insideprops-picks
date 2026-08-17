@@ -27850,5 +27850,156 @@
     "pick": "Tampa Bay Rays ML +123 / Toronto Blue Jays ML +107 / New York Mets ML +151 / Arizona Diamondbacks ML +108 / St. Louis Cardinals ML +137",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "Tampa Bay Rays ML +135",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "TB @ BAL"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "Tampa Bay Rays +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "TB @ BAL"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "Philadelphia Phillies ML +202",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PHI @ MIA"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "Philadelphia Phillies +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PHI @ MIA"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "Detroit Tigers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PIT @ DET"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "Detroit Tigers ML -100",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PIT @ DET"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "Arizona Diamondbacks ML +127",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ARI @ BOS"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "Arizona Diamondbacks +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ARI @ BOS"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "San Diego Padres -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NYM @ SD"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "San Diego Padres ML -120",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NYM @ SD"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "Athletics ML +165",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATH @ KC"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "Athletics +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATH @ KC"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "Minnesota Twins ML +109",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATL @ MIN"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "Minnesota Twins +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATL @ MIN"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "Chicago White Sox ML +140",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CWS @ CHC"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "Chicago White Sox +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CWS @ CHC"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "Colorado Rockies ML +210",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAD @ COL"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "MLB",
+    "pick": "Colorado Rockies +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAD @ COL"
+  },
+  {
+    "date": "2026-08-17",
+    "sport": "PARLAY",
+    "pick": "Tampa Bay Rays ML +135 / Philadelphia Phillies ML +202 / Chicago White Sox ML +140 / San Diego Padres -1.5 / Arizona Diamondbacks ML +127",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
