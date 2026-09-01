@@ -31091,5 +31091,252 @@
     "pick": "Atlanta Braves ML +169 / Baltimore Orioles ML +118 / Boston Red Sox ML +143 / New York Yankees ML +107 / Arizona Diamondbacks ML +103",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Cincinnati Reds ML +117",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SD @ CIN"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Cincinnati Reds +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "SD @ CIN"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Pittsburgh Pirates ML +137",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PIT @ SF"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Pittsburgh Pirates +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PIT @ SF"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Cleveland Guardians ML +152",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CLE @ TOR"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Cleveland Guardians +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CLE @ TOR"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "New York Mets ML +110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NYM @ TB"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "New York Mets +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NYM @ TB"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Washington Nationals ML +150",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATL @ WSH"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Washington Nationals +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATL @ WSH"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Boston Red Sox ML +105",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "BOS @ SEA"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Boston Red Sox +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "BOS @ SEA"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Kansas City Royals +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIA @ KC"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Kansas City Royals ML -118",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIA @ KC"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Under 8.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "DET @ MIN"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Minnesota Twins +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "DET @ MIN"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Milwaukee Brewers ML +110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIL @ CHC"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Milwaukee Brewers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIL @ CHC"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Athletics ML +165",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATH @ TEX"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Athletics +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATH @ TEX"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Chicago White Sox +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "HOU @ CWS"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Chicago White Sox ML -100",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "HOU @ CWS"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Baltimore Orioles ML +120",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "COL @ BAL"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Baltimore Orioles +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "COL @ BAL"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "New York Yankees ML +155",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAA @ NYY"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "New York Yankees +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAA @ NYY"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Philadelphia Phillies -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PHI @ ARI"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Philadelphia Phillies ML -140",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PHI @ ARI"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Los Angeles Dodgers ML +146",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAD @ STL"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "MLB",
+    "pick": "Los Angeles Dodgers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAD @ STL"
+  },
+  {
+    "date": "2026-09-01",
+    "sport": "PARLAY",
+    "pick": "Cleveland Guardians ML +152 / Baltimore Orioles ML +120 / Boston Red Sox ML +105 / Milwaukee Brewers ML +110 / Los Angeles Dodgers ML +146",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
