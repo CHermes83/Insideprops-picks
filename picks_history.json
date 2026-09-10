@@ -33170,5 +33170,92 @@
     "pick": "Toronto Blue Jays ML +153 / Pittsburgh Pirates ML +133 / Los Angeles Dodgers ML +244 / San Francisco Giants ML +114 / Houston Astros ML +146",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-09-10",
+    "sport": "MLB",
+    "pick": "Tampa Bay Rays -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATL @ TB"
+  },
+  {
+    "date": "2026-09-10",
+    "sport": "MLB",
+    "pick": "Tampa Bay Rays ML -118",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATL @ TB"
+  },
+  {
+    "date": "2026-09-10",
+    "sport": "MLB",
+    "pick": "Houston Astros ML +156",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "HOU @ PHI"
+  },
+  {
+    "date": "2026-09-10",
+    "sport": "MLB",
+    "pick": "Houston Astros +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "HOU @ PHI"
+  },
+  {
+    "date": "2026-09-10",
+    "sport": "MLB",
+    "pick": "Seattle Mariners ML +105",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SEA @ TEX"
+  },
+  {
+    "date": "2026-09-10",
+    "sport": "MLB",
+    "pick": "Seattle Mariners +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "SEA @ TEX"
+  },
+  {
+    "date": "2026-09-10",
+    "sport": "MLB",
+    "pick": "New York Yankees -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "COL @ NYY"
+  },
+  {
+    "date": "2026-09-10",
+    "sport": "MLB",
+    "pick": "New York Yankees ML -325",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "COL @ NYY"
+  },
+  {
+    "date": "2026-09-10",
+    "sport": "MLB",
+    "pick": "Pittsburgh Pirates -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PIT @ CWS"
+  },
+  {
+    "date": "2026-09-10",
+    "sport": "MLB",
+    "pick": "Pittsburgh Pirates ML -110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PIT @ CWS"
+  },
+  {
+    "date": "2026-09-10",
+    "sport": "PARLAY",
+    "pick": "Houston Astros ML +156 / Pittsburgh Pirates -1.5 / Seattle Mariners ML +105 / Tampa Bay Rays -1.5 / New York Yankees -1.5",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
