@@ -34659,5 +34659,156 @@
     "pick": "San Diego Padres ML +140 / Athletics ML +156 / Pittsburgh Pirates ML +115 / New York Yankees -1.5 / Detroit Tigers -1.5",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "Pittsburgh Pirates ML +120",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIL @ PIT"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "Pittsburgh Pirates +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIL @ PIT"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "Los Angeles Dodgers -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAD @ CIN"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "Los Angeles Dodgers ML -165",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAD @ CIN"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "Tampa Bay Rays -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATH @ TB"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "Tampa Bay Rays ML -285",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATH @ TB"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "San Diego Padres ML +140",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "COL @ SD"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "San Diego Padres +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "COL @ SD"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "Houston Astros ML +125",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "HOU @ KC"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "Houston Astros +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "HOU @ KC"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "Philadelphia Phillies ML +110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PHI @ NYM"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "Philadelphia Phillies +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PHI @ NYM"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "Detroit Tigers -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "DET @ CWS"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "Detroit Tigers ML -105",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "DET @ CWS"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "Texas Rangers ML +118",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "BOS @ TEX"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "Texas Rangers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "BOS @ TEX"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "Minnesota Twins ML +105",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAA @ MIN"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "MLB",
+    "pick": "Minnesota Twins +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAA @ MIN"
+  },
+  {
+    "date": "2026-09-17",
+    "sport": "PARLAY",
+    "pick": "San Diego Padres ML +140 / Texas Rangers ML +118 / Tampa Bay Rays -1.5 / Pittsburgh Pirates ML +120 / Los Angeles Dodgers -1.5",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
