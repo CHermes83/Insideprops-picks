@@ -35551,5 +35551,92 @@
     "pick": "Cleveland Guardians ML +192 / Los Angeles Dodgers ML +225 / San Diego Padres -1.5 / Tampa Bay Rays -1.5 / Milwaukee Brewers -1.5",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-09-21",
+    "sport": "NHL",
+    "pick": "Buffalo Sabres ML +140",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "BUF @ PIT"
+  },
+  {
+    "date": "2026-09-21",
+    "sport": "NHL",
+    "pick": "Buffalo Sabres +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "BUF @ PIT"
+  },
+  {
+    "date": "2026-09-21",
+    "sport": "NHL",
+    "pick": "Minnesota Wild ML +210",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIN @ CHI"
+  },
+  {
+    "date": "2026-09-21",
+    "sport": "NHL",
+    "pick": "Under 5.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "MIN @ CHI"
+  },
+  {
+    "date": "2026-09-21",
+    "sport": "MLB",
+    "pick": "Baltimore Orioles +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "TOR @ BAL"
+  },
+  {
+    "date": "2026-09-21",
+    "sport": "MLB",
+    "pick": "Baltimore Orioles ML -115",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "TOR @ BAL"
+  },
+  {
+    "date": "2026-09-21",
+    "sport": "MLB",
+    "pick": "Washington Nationals ML +115",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "WSH @ DET"
+  },
+  {
+    "date": "2026-09-21",
+    "sport": "MLB",
+    "pick": "Washington Nationals +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "WSH @ DET"
+  },
+  {
+    "date": "2026-09-21",
+    "sport": "MLB",
+    "pick": "Minnesota Twins +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "SF @ MIN"
+  },
+  {
+    "date": "2026-09-21",
+    "sport": "MLB",
+    "pick": "Minnesota Twins ML -100",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SF @ MIN"
+  },
+  {
+    "date": "2026-09-21",
+    "sport": "PARLAY",
+    "pick": "Washington Nationals ML +115 / Buffalo Sabres ML +140 / Baltimore Orioles +1.5 / Minnesota Wild ML +210 / Minnesota Twins +1.5",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
