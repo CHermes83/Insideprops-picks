@@ -37184,5 +37184,156 @@
     "pick": "San Diego Padres ML +120 / Milwaukee Brewers ML +200 / Florida Panthers ML +110 / Cleveland Guardians -1.5 / New York Yankees ML +111",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "NHL",
+    "pick": "Florida Panthers ML +105",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "FLA @ CAR"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "NHL",
+    "pick": "Florida Panthers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "FLA @ CAR"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "NHL",
+    "pick": "Under 6.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "MTL @ TOR"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "NHL",
+    "pick": "Montreal Canadiens +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MTL @ TOR"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "NHL",
+    "pick": "Boston Bruins -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NYR @ BOS"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "NHL",
+    "pick": "Boston Bruins ML -115",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NYR @ BOS"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "NHL",
+    "pick": "Vancouver Canucks -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "EDM @ VAN"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "NHL",
+    "pick": "Vancouver Canucks ML -276",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "EDM @ VAN"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "NHL",
+    "pick": "Chicago Blackhawks ML +210",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CHI @ VGK"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "NHL",
+    "pick": "Under 5.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "CHI @ VGK"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "MLB",
+    "pick": "Atlanta Braves ML +166",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATL @ PHI"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "MLB",
+    "pick": "Atlanta Braves +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATL @ PHI"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "MLB",
+    "pick": "Houston Astros ML +115",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "HOU @ CWS"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "MLB",
+    "pick": "Houston Astros +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "HOU @ CWS"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "MLB",
+    "pick": "Boston Red Sox ML +127",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "BOS @ NYY"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "MLB",
+    "pick": "Boston Red Sox +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "BOS @ NYY"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "MLB",
+    "pick": "San Diego Padres -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CHC @ SD"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "MLB",
+    "pick": "San Diego Padres ML -125",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CHC @ SD"
+  },
+  {
+    "date": "2026-09-28",
+    "sport": "PARLAY",
+    "pick": "Florida Panthers ML +105 / San Diego Padres -1.5 / Atlanta Braves ML +166 / Houston Astros ML +115 / Boston Red Sox ML +127",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
