@@ -37605,5 +37605,156 @@
     "pick": "San Diego Padres -1.5 / Chicago White Sox -1.5 / Pittsburgh Penguins ML +119 / Boston Red Sox ML +120 / Under 6.5",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "NHL",
+    "pick": "New York Rangers ML +120",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "TB @ NYR"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "NHL",
+    "pick": "Under 5.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "TB @ NYR"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "NHL",
+    "pick": "Buffalo Sabres +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CBJ @ BUF"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "NHL",
+    "pick": "Buffalo Sabres ML -106",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CBJ @ BUF"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "NHL",
+    "pick": "New Jersey Devils ML +140",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NJ @ PHI"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "NHL",
+    "pick": "Under 5.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "NJ @ PHI"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "NHL",
+    "pick": "Minnesota Wild ML +124",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NSH @ MIN"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "NHL",
+    "pick": "Under 6.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "NSH @ MIN"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "NHL",
+    "pick": "Seattle Kraken -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CGY @ SEA"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "NHL",
+    "pick": "Seattle Kraken ML -110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CGY @ SEA"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "NHL",
+    "pick": "Utah Mammoth ML +180",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "UTA @ CHI"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "NHL",
+    "pick": "Utah Mammoth +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "UTA @ CHI"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "NHL",
+    "pick": "Vancouver Canucks ML +180",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "EDM @ VAN"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "NHL",
+    "pick": "Vancouver Canucks +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "EDM @ VAN"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "NHL",
+    "pick": "Florida Panthers -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "FLA @ SJ"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "NHL",
+    "pick": "Florida Panthers ML -147",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "FLA @ SJ"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "MLB",
+    "pick": "Atlanta Braves -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATL @ PHI"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "MLB",
+    "pick": "Atlanta Braves ML -113",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATL @ PHI"
+  },
+  {
+    "date": "2026-10-01",
+    "sport": "PARLAY",
+    "pick": "Vancouver Canucks ML +180 / Florida Panthers -1.5 / New Jersey Devils ML +140 / Utah Mammoth ML +180 / Atlanta Braves -1.5",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
