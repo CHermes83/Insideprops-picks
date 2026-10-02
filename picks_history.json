@@ -37756,5 +37756,180 @@
     "pick": "Vancouver Canucks ML +180 / Florida Panthers -1.5 / New Jersey Devils ML +140 / Utah Mammoth ML +180 / Atlanta Braves -1.5",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "NBA",
+    "pick": "Toronto Raptors +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIA @ TOR"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "NBA",
+    "pick": "Toronto Raptors ML -102",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIA @ TOR"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "NBA",
+    "pick": "Over 227.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "MIA @ TOR"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "NHL",
+    "pick": "Detroit Red Wings ML +110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "DET @ NYR"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "NHL",
+    "pick": "Detroit Red Wings +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "DET @ NYR"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "NHL",
+    "pick": "Carolina Hurricanes ML +119",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CAR @ WSH"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "NHL",
+    "pick": "Carolina Hurricanes +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CAR @ WSH"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "NHL",
+    "pick": "Winnipeg Jets ML +103",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "WPG @ BOS"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "NHL",
+    "pick": "Under 5.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "WPG @ BOS"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "NHL",
+    "pick": "St. Louis Blues ML +150",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "STL @ DAL"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "NHL",
+    "pick": "St. Louis Blues +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "STL @ DAL"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "NHL",
+    "pick": "Anaheim Ducks ML +163",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ANA @ VGK"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "NHL",
+    "pick": "Anaheim Ducks +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ANA @ VGK"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "MLB",
+    "pick": "Cleveland Guardians ML +130",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CLE @ CWS"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "MLB",
+    "pick": "Cleveland Guardians +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CLE @ CWS"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "MLB",
+    "pick": "Los Angeles Dodgers ML +170",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAD @ ATL"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "MLB",
+    "pick": "Los Angeles Dodgers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAD @ ATL"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "MLB",
+    "pick": "Tampa Bay Rays ML +115",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "TB @ NYY"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "MLB",
+    "pick": "Tampa Bay Rays +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "TB @ NYY"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "MLB",
+    "pick": "Milwaukee Brewers ML +181",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIL @ SD"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "MLB",
+    "pick": "Milwaukee Brewers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIL @ SD"
+  },
+  {
+    "date": "2026-10-02",
+    "sport": "PARLAY",
+    "pick": "St. Louis Blues ML +150 / Cleveland Guardians ML +130 / Los Angeles Dodgers ML +170 / Milwaukee Brewers ML +181 / Carolina Hurricanes ML +119",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
