@@ -38903,5 +38903,244 @@
     "pick": "Milwaukee Brewers ML +115 / Florida Panthers -1.5 / New Jersey Devils ML +110 / New York Rangers -1.5 / St. Louis Blues -1.5",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NBA",
+    "pick": "Minnesota Timberwolves ML +156",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "IND @ MIN"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NBA",
+    "pick": "Under 239.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "IND @ MIN"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NBA",
+    "pick": "Minnesota Timberwolves +5.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "IND @ MIN"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NBA",
+    "pick": "Phoenix Suns ML +114",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CHI @ PHX"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NBA",
+    "pick": "Under 229.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "CHI @ PHX"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NBA",
+    "pick": "Phoenix Suns +2.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CHI @ PHX"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NBA",
+    "pick": "Under 234.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "ORL @ MEM"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NBA",
+    "pick": "Orlando Magic -2.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ORL @ MEM"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NBA",
+    "pick": "Orlando Magic ML -135",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ORL @ MEM"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NBA",
+    "pick": "Oklahoma City Thunder ML +550",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "OKC @ MIL"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NBA",
+    "pick": "Oklahoma City Thunder +14.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "OKC @ MIL"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NBA",
+    "pick": "Under 218.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "OKC @ MIL"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NBA",
+    "pick": "Golden State Warriors ML +400",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "GSW @ POR"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NBA",
+    "pick": "Under 214.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "GSW @ POR"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NBA",
+    "pick": "Golden State Warriors +13.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "GSW @ POR"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NHL",
+    "pick": "Pittsburgh Penguins ML +135",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PIT @ WSH"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NHL",
+    "pick": "Pittsburgh Penguins +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PIT @ WSH"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NHL",
+    "pick": "Winnipeg Jets ML +155",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "COL @ WPG"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NHL",
+    "pick": "Winnipeg Jets +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "COL @ WPG"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NHL",
+    "pick": "Anaheim Ducks ML +111",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "EDM @ ANA"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "NHL",
+    "pick": "Anaheim Ducks +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "EDM @ ANA"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "MLB",
+    "pick": "Chicago White Sox +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CLE @ CWS"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "MLB",
+    "pick": "Chicago White Sox ML -120",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CLE @ CWS"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "MLB",
+    "pick": "Los Angeles Dodgers -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAD @ ATL"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "MLB",
+    "pick": "Los Angeles Dodgers ML -151",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAD @ ATL"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "MLB",
+    "pick": "Tampa Bay Rays ML +140",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "TB @ NYY"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "MLB",
+    "pick": "Tampa Bay Rays +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "TB @ NYY"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "MLB",
+    "pick": "Milwaukee Brewers -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIL @ SD"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "MLB",
+    "pick": "Milwaukee Brewers ML -107",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIL @ SD"
+  },
+  {
+    "date": "2026-10-07",
+    "sport": "PARLAY",
+    "pick": "Pittsburgh Penguins ML +135 / Anaheim Ducks ML +111 / Tampa Bay Rays ML +140 / Chicago White Sox +1.5 / Milwaukee Brewers -1.5",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
