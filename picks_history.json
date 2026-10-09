@@ -39469,5 +39469,116 @@
     "pick": "St. Louis Blues ML +125 / New York Knicks -6.5 / Minnesota Wild ML +121 / Carolina Hurricanes -1.5 / Chicago White Sox +1.5",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-10-09",
+    "sport": "NBA",
+    "pick": "Chicago Bulls ML +124",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CHI @ MEM"
+  },
+  {
+    "date": "2026-10-09",
+    "sport": "NBA",
+    "pick": "Under 240.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "CHI @ MEM"
+  },
+  {
+    "date": "2026-10-09",
+    "sport": "NBA",
+    "pick": "Chicago Bulls +2.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CHI @ MEM"
+  },
+  {
+    "date": "2026-10-09",
+    "sport": "NHL",
+    "pick": "Pittsburgh Penguins ML +102",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PIT @ CBJ"
+  },
+  {
+    "date": "2026-10-09",
+    "sport": "NHL",
+    "pick": "Pittsburgh Penguins +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PIT @ CBJ"
+  },
+  {
+    "date": "2026-10-09",
+    "sport": "NHL",
+    "pick": "Detroit Red Wings ML +120",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "DET @ SEA"
+  },
+  {
+    "date": "2026-10-09",
+    "sport": "NHL",
+    "pick": "Detroit Red Wings +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "DET @ SEA"
+  },
+  {
+    "date": "2026-10-09",
+    "sport": "NHL",
+    "pick": "New York Rangers ML +120",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NYR @ WSH"
+  },
+  {
+    "date": "2026-10-09",
+    "sport": "NHL",
+    "pick": "New York Rangers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NYR @ WSH"
+  },
+  {
+    "date": "2026-10-09",
+    "sport": "NHL",
+    "pick": "Winnipeg Jets +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "WPG @ ANA"
+  },
+  {
+    "date": "2026-10-09",
+    "sport": "NHL",
+    "pick": "Winnipeg Jets ML -101",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "WPG @ ANA"
+  },
+  {
+    "date": "2026-10-09",
+    "sport": "MLB",
+    "pick": "Cleveland Guardians ML +115",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CLE @ CWS"
+  },
+  {
+    "date": "2026-10-09",
+    "sport": "MLB",
+    "pick": "Cleveland Guardians +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CLE @ CWS"
+  },
+  {
+    "date": "2026-10-09",
+    "sport": "PARLAY",
+    "pick": "New York Rangers ML +120 / Cleveland Guardians ML +115 / Winnipeg Jets +1.5 / Chicago Bulls ML +124 / Pittsburgh Penguins ML +102",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
