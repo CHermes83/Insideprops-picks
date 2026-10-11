@@ -39995,5 +39995,148 @@
     "pick": "Florida Panthers ML +115 / San Jose Sharks ML +133 / Boston Bruins ML +116 / Colorado Avalanche ML +180 / Cleveland Guardians ML +116",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "NBA",
+    "pick": "Cleveland Cavaliers ML +175",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CLE @ ORL"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "NBA",
+    "pick": "Cleveland Cavaliers +5.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CLE @ ORL"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "NBA",
+    "pick": "Under 228.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "CLE @ ORL"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "NBA",
+    "pick": "Charlotte Hornets ML +150",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CHA @ MIL"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "NBA",
+    "pick": "Charlotte Hornets +4.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CHA @ MIL"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "NBA",
+    "pick": "Under 221.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "CHA @ MIL"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "NBA",
+    "pick": "Denver Nuggets ML +260",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "DEN @ CHI"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "NBA",
+    "pick": "Denver Nuggets +8.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "DEN @ CHI"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "NBA",
+    "pick": "Under 233.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "DEN @ CHI"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "NHL",
+    "pick": "Seattle Kraken ML +180",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SEA @ WSH"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "NHL",
+    "pick": "Seattle Kraken +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "SEA @ WSH"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "NHL",
+    "pick": "New York Rangers -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "VAN @ NYR"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "NHL",
+    "pick": "New York Rangers ML -270",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "VAN @ NYR"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "NHL",
+    "pick": "Carolina Hurricanes -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CAR @ PHI"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "NHL",
+    "pick": "Carolina Hurricanes ML -210",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CAR @ PHI"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "MLB",
+    "pick": "Milwaukee Brewers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAD @ MIL"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "MLB",
+    "pick": "Milwaukee Brewers ML -112",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAD @ MIL"
+  },
+  {
+    "date": "2026-10-11",
+    "sport": "PARLAY",
+    "pick": "Seattle Kraken ML +180 / New York Rangers -1.5 / Carolina Hurricanes -1.5 / Milwaukee Brewers +1.5 / Charlotte Hornets ML +150",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
