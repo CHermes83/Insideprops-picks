@@ -40138,5 +40138,188 @@
     "pick": "Seattle Kraken ML +180 / New York Rangers -1.5 / Carolina Hurricanes -1.5 / Milwaukee Brewers +1.5 / Charlotte Hornets ML +150",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NBA",
+    "pick": "Oklahoma City Thunder ML +195",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "OKC @ ATL"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NBA",
+    "pick": "Oklahoma City Thunder +6.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "OKC @ ATL"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NBA",
+    "pick": "Under 224.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "OKC @ ATL"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NBA",
+    "pick": "Under 222.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "WAS @ BKN"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NBA",
+    "pick": "Brooklyn Nets -2.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "WAS @ BKN"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NBA",
+    "pick": "Brooklyn Nets ML -140",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "WAS @ BKN"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NBA",
+    "pick": "New York Knicks -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIN @ NYK"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NBA",
+    "pick": "New York Knicks ML -115",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIN @ NYK"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NBA",
+    "pick": "Over 227.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "MIN @ NYK"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NBA",
+    "pick": "Under 227.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "SAS @ UTA"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NBA",
+    "pick": "Utah Jazz -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "SAS @ UTA"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NBA",
+    "pick": "Utah Jazz ML -115",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SAS @ UTA"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NHL",
+    "pick": "Florida Panthers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "FLA @ BUF"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NHL",
+    "pick": "Florida Panthers ML -106",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "FLA @ BUF"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NHL",
+    "pick": "Ottawa Senators -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NJ @ OTT"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NHL",
+    "pick": "Ottawa Senators ML -119",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NJ @ OTT"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NHL",
+    "pick": "Vegas Golden Knights -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIN @ VGK"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "NHL",
+    "pick": "Vegas Golden Knights ML -110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIN @ VGK"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "MLB",
+    "pick": "Milwaukee Brewers ML +115",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAD @ MIL"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "MLB",
+    "pick": "Milwaukee Brewers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAD @ MIL"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "MLB",
+    "pick": "Cleveland Guardians ML +144",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CLE @ TB"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "MLB",
+    "pick": "Cleveland Guardians +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CLE @ TB"
+  },
+  {
+    "date": "2026-10-12",
+    "sport": "PARLAY",
+    "pick": "Milwaukee Brewers ML +115 / Cleveland Guardians ML +144 / New York Knicks -1.5 / Ottawa Senators -1.5 / Vegas Golden Knights -1.5",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
