@@ -41995,5 +41995,164 @@
     "pick": "Carolina Hurricanes ML +180 / New York Knicks ML +160 / Tampa Bay Rays ML +114 / Oklahoma City Thunder ML +118 / Columbus Blue Jackets ML +157",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NBA",
+    "pick": "Boston Celtics -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "BOS @ DET"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NBA",
+    "pick": "Boston Celtics ML -112",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "BOS @ DET"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NBA",
+    "pick": "Under 222.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "BOS @ DET"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NBA",
+    "pick": "New York Knicks ML +154",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NYK @ PHI"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NBA",
+    "pick": "New York Knicks +4.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NYK @ PHI"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NBA",
+    "pick": "Over 231.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "NYK @ PHI"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NBA",
+    "pick": "Oklahoma City Thunder ML +110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "OKC @ SAS"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NBA",
+    "pick": "Oklahoma City Thunder +2.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "OKC @ SAS"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NBA",
+    "pick": "Under 231.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "OKC @ SAS"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NHL",
+    "pick": "New York Rangers ML +119",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NYR @ ANA"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NHL",
+    "pick": "New York Rangers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NYR @ ANA"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NHL",
+    "pick": "Colorado Avalanche -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "COL @ PHI"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NHL",
+    "pick": "Colorado Avalanche ML -239",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "COL @ PHI"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NHL",
+    "pick": "San Jose Sharks ML +111",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SJ @ TOR"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NHL",
+    "pick": "San Jose Sharks +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "SJ @ TOR"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NHL",
+    "pick": "Utah Mammoth -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PIT @ UTA"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "NHL",
+    "pick": "Utah Mammoth ML -185",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PIT @ UTA"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "MLB",
+    "pick": "Cleveland Guardians ML +126",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CLE @ TB"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "MLB",
+    "pick": "Cleveland Guardians +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CLE @ TB"
+  },
+  {
+    "date": "2026-10-19",
+    "sport": "PARLAY",
+    "pick": "New York Knicks ML +154 / New York Rangers ML +119 / San Jose Sharks ML +111 / Cleveland Guardians ML +126 / Colorado Avalanche -1.5",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
