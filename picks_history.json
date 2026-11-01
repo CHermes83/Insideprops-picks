@@ -45870,5 +45870,188 @@
     "pick": "Philadelphia 76ers ML +100 / Houston Rockets ML +118 / Calgary Flames ML +331 / Memphis Grizzlies -8.5 / Tampa Bay Lightning ML +143",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NBA",
+    "pick": "Boston Celtics -6.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "BOS @ ORL"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NBA",
+    "pick": "Boston Celtics ML -250",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "BOS @ ORL"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NBA",
+    "pick": "Over 222.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "BOS @ ORL"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NBA",
+    "pick": "Under 230.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "IND @ BKN"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NBA",
+    "pick": "Indiana Pacers ML +142",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "IND @ BKN"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NBA",
+    "pick": "Indiana Pacers +3.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "IND @ BKN"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NBA",
+    "pick": "Golden State Warriors ML +112",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "GSW @ LAC"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NBA",
+    "pick": "Golden State Warriors +2.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "GSW @ LAC"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NBA",
+    "pick": "Under 221.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "GSW @ LAC"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NBA",
+    "pick": "Toronto Raptors ML +125",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "TOR @ LAL"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NBA",
+    "pick": "Toronto Raptors +2.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "TOR @ LAL"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NBA",
+    "pick": "Over 226.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "TOR @ LAL"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NHL",
+    "pick": "Carolina Hurricanes -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "WPG @ CAR"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NHL",
+    "pick": "Carolina Hurricanes ML -287",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "WPG @ CAR"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NHL",
+    "pick": "Washington Capitals -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIN @ WSH"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NHL",
+    "pick": "Washington Capitals ML -110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIN @ WSH"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NHL",
+    "pick": "Philadelphia Flyers ML +135",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "UTA @ PHI"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NHL",
+    "pick": "Philadelphia Flyers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "UTA @ PHI"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NHL",
+    "pick": "Edmonton Oilers ML +105",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "EDM @ NYR"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NHL",
+    "pick": "Edmonton Oilers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "EDM @ NYR"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NHL",
+    "pick": "Ottawa Senators -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "OTT @ ANA"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "NHL",
+    "pick": "Ottawa Senators ML -118",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "OTT @ ANA"
+  },
+  {
+    "date": "2026-11-01",
+    "sport": "PARLAY",
+    "pick": "Carolina Hurricanes -1.5 / Edmonton Oilers ML +105 / Golden State Warriors ML +112 / Toronto Raptors ML +125 / Boston Celtics -6.5",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
