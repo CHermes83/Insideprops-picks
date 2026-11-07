@@ -47696,5 +47696,372 @@
     "pick": "Philadelphia 76ers ML +124 / San Antonio Spurs ML +775 / Minnesota Wild ML +210 / Boston Celtics ML +261 / Los Angeles Lakers ML +125",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Denver Nuggets -7.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "DEN @ IND"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Denver Nuggets ML -290",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "DEN @ IND"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Under 229.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "DEN @ IND"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Atlanta Hawks ML +220",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATL @ BKN"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Atlanta Hawks +6.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATL @ BKN"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Over 226.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "ATL @ BKN"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "New York Knicks ML +170",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CLE @ NYK"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "New York Knicks +4.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CLE @ NYK"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Over 223.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "CLE @ NYK"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Oklahoma City Thunder ML +400",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "OKC @ WAS"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Oklahoma City Thunder +11.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "OKC @ WAS"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Over 222.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "OKC @ WAS"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Golden State Warriors ML +185",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "GSW @ ORL"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Golden State Warriors +5.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "GSW @ ORL"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Over 222.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "GSW @ ORL"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Houston Rockets -6.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "HOU @ PHX"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Houston Rockets ML -295",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "HOU @ PHX"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Under 223.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "HOU @ PHX"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "San Antonio Spurs -5.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "SAS @ POR"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "San Antonio Spurs ML -210",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SAS @ POR"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NBA",
+    "pick": "Over 227.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "SAS @ POR"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Florida Panthers ML +101",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "FLA @ WSH"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Florida Panthers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "FLA @ WSH"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Nashville Predators -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "STL @ NSH"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Nashville Predators ML -110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "STL @ NSH"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "New York Rangers ML +110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SEA @ NYR"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "New York Rangers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "SEA @ NYR"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Utah Mammoth +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "OTT @ UTA"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Utah Mammoth ML -102",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "OTT @ UTA"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Montreal Canadiens -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MTL @ TOR"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Montreal Canadiens ML -120",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MTL @ TOR"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "New Jersey Devils ML +127",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NYI @ NJ"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "New Jersey Devils +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NYI @ NJ"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Dallas Stars -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "SJ @ DAL"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Dallas Stars ML -301",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SJ @ DAL"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Tampa Bay Lightning ML +118",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIN @ TB"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Over 6.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "MIN @ TB"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Carolina Hurricanes ML +355",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CAR @ CHI"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Carolina Hurricanes +2.0",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CAR @ CHI"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Colorado Avalanche ML +185",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "COL @ DET"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Colorado Avalanche +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "COL @ DET"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Los Angeles Kings -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PIT @ LA"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Los Angeles Kings ML -125",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PIT @ LA"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Edmonton Oilers ML +280",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "EDM @ VAN"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NHL",
+    "pick": "Edmonton Oilers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "EDM @ VAN"
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "PARLAY",
+    "pick": "Golden State Warriors ML +185 / Tampa Bay Lightning ML +118 / Atlanta Hawks ML +220 / New York Knicks ML +170 / Florida Panthers ML +101",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
