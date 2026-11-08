@@ -48063,5 +48063,276 @@
     "pick": "Golden State Warriors ML +185 / Tampa Bay Lightning ML +118 / Atlanta Hawks ML +220 / New York Knicks ML +170 / Florida Panthers ML +101",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Philadelphia 76ers ML +310",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CHI @ PHI"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Philadelphia 76ers +9.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CHI @ PHI"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Under 237.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "CHI @ PHI"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Los Angeles Lakers ML +150",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAL @ DET"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Los Angeles Lakers +4.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAL @ DET"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Over 221.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "LAL @ DET"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Minnesota Timberwolves ML +425",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIN @ UTA"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Minnesota Timberwolves +11.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIN @ UTA"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Under 223.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "MIN @ UTA"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Dallas Mavericks ML +260",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "DAL @ BKN"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Dallas Mavericks +7.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "DAL @ BKN"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Over 222.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "DAL @ BKN"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Boston Celtics -13.0",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "BOS @ MIL"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Boston Celtics ML -790",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "BOS @ MIL"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Under 221.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "BOS @ MIL"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Miami Heat ML +331",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SAC @ MIA"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Miami Heat +9.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "SAC @ MIA"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Under 238.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "SAC @ MIA"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "New Orleans Pelicans -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NOP @ LAC"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "New Orleans Pelicans ML -120",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NOP @ LAC"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NBA",
+    "pick": "Under 226.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "NOP @ LAC"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NHL",
+    "pick": "Florida Panthers ML +119",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "FLA @ BOS"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NHL",
+    "pick": "Florida Panthers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "FLA @ BOS"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NHL",
+    "pick": "Buffalo Sabres -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "BUF @ VGK"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NHL",
+    "pick": "Buffalo Sabres ML -110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "BUF @ VGK"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NHL",
+    "pick": "Tampa Bay Lightning ML +120",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "WPG @ TB"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NHL",
+    "pick": "Tampa Bay Lightning +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "WPG @ TB"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NHL",
+    "pick": "New Jersey Devils -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NJ @ TOR"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NHL",
+    "pick": "New Jersey Devils ML -155",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NJ @ TOR"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NHL",
+    "pick": "Calgary Flames -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CGY @ PHI"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NHL",
+    "pick": "Calgary Flames ML -119",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CGY @ PHI"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NHL",
+    "pick": "Anaheim Ducks -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "PIT @ ANA"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NHL",
+    "pick": "Anaheim Ducks ML -120",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "PIT @ ANA"
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "PARLAY",
+    "pick": "Tampa Bay Lightning ML +120 / Philadelphia 76ers ML +310 / Los Angeles Lakers ML +150 / Minnesota Timberwolves ML +425 / Dallas Mavericks ML +260",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
