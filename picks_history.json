@@ -48334,5 +48334,252 @@
     "pick": "Tampa Bay Lightning ML +120 / Philadelphia 76ers ML +310 / Los Angeles Lakers ML +150 / Minnesota Timberwolves ML +425 / Dallas Mavericks ML +260",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Atlanta Hawks ML +108",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "ATL @ LAL"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Over 236.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "ATL @ LAL"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Atlanta Hawks +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "ATL @ LAL"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Cleveland Cavaliers ML +278",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "CHA @ CLE"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Cleveland Cavaliers +8.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "CHA @ CLE"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Under 214.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "CHA @ CLE"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Washington Wizards ML +380",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "WAS @ DET"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Washington Wizards +10.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "WAS @ DET"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Over 218.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "WAS @ DET"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Toronto Raptors ML +130",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "TOR @ MEM"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Toronto Raptors +3.0",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "TOR @ MEM"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Under 229.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "TOR @ MEM"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Dallas Mavericks ML +135",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "DAL @ IND"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Dallas Mavericks +3.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "DAL @ IND"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Under 225.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "DAL @ IND"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Denver Nuggets ML +267",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "DEN @ HOU"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Denver Nuggets +9.0",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "DEN @ HOU"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Over 219.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "DEN @ HOU"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "San Antonio Spurs -8.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "SAS @ PHX"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "San Antonio Spurs ML -355",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SAS @ PHX"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Over 226.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "SAS @ PHX"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Golden State Warriors -9.0",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NOP @ GSW"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Golden State Warriors ML -380",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NOP @ GSW"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NBA",
+    "pick": "Over 232.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "NOP @ GSW"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NHL",
+    "pick": "Edmonton Oilers ML +135",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "EDM @ NYR"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NHL",
+    "pick": "Edmonton Oilers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "EDM @ NYR"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NHL",
+    "pick": "Under 6.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "VAN @ PHI"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NHL",
+    "pick": "Philadelphia Flyers ML +114",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "VAN @ PHI"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NHL",
+    "pick": "New York Islanders -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NYI @ SJ"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "NHL",
+    "pick": "New York Islanders ML -140",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NYI @ SJ"
+  },
+  {
+    "date": "2026-11-09",
+    "sport": "PARLAY",
+    "pick": "Atlanta Hawks ML +108 / Denver Nuggets ML +267 / San Antonio Spurs -8.5 / Golden State Warriors -9.0 / Edmonton Oilers ML +135",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
