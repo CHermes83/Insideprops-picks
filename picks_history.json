@@ -48581,5 +48581,268 @@
     "pick": "Atlanta Hawks ML +108 / Denver Nuggets ML +267 / San Antonio Spurs -8.5 / Golden State Warriors -9.0 / Edmonton Oilers ML +135",
     "type": "parlay",
     "result": "PENDING"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "New York Knicks ML +700",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NYK @ MIL"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "New York Knicks +15.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NYK @ MIL"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "Under 221.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "NYK @ MIL"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "Philadelphia 76ers +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "BOS @ PHI"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "Philadelphia 76ers ML -101",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "BOS @ PHI"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "Over 217.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "BOS @ PHI"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "Miami Heat -8.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "MIA @ UTA"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "Miami Heat ML -350",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MIA @ UTA"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "Under 228.0",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "MIA @ UTA"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "Los Angeles Clippers ML +140",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "LAC @ PHX"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "Los Angeles Clippers +3.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "LAC @ PHX"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "Under 224.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "LAC @ PHX"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "Orlando Magic ML +190",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "SAC @ ORL"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "Under 222.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "SAC @ ORL"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "Orlando Magic +6.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "SAC @ ORL"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "Portland Trail Blazers ML +110",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "OKC @ POR"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "Portland Trail Blazers +2.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "OKC @ POR"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NBA",
+    "pick": "Over 224.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "OKC @ POR"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NHL",
+    "pick": "Minnesota Wild ML +105",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "MTL @ MIN"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NHL",
+    "pick": "Over 6.5",
+    "type": "total",
+    "result": "PENDING",
+    "matchup": "MTL @ MIN"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NHL",
+    "pick": "Colorado Avalanche -1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "COL @ TOR"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NHL",
+    "pick": "Colorado Avalanche ML -164",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "COL @ TOR"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NHL",
+    "pick": "Ottawa Senators +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "OTT @ WSH"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NHL",
+    "pick": "Ottawa Senators ML -102",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "OTT @ WSH"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NHL",
+    "pick": "New Jersey Devils ML +125",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "WPG @ NJ"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NHL",
+    "pick": "New Jersey Devils +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "WPG @ NJ"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NHL",
+    "pick": "Columbus Blue Jackets +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "FLA @ CBJ"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NHL",
+    "pick": "Columbus Blue Jackets ML -100",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "FLA @ CBJ"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NHL",
+    "pick": "St. Louis Blues ML +120",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "STL @ DET"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NHL",
+    "pick": "St. Louis Blues +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "STL @ DET"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NHL",
+    "pick": "Nashville Predators ML +115",
+    "type": "moneyline",
+    "result": "PENDING",
+    "matchup": "NSH @ LA"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NHL",
+    "pick": "Nashville Predators +1.5",
+    "type": "spread",
+    "result": "PENDING",
+    "matchup": "NSH @ LA"
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "PARLAY",
+    "pick": "Minnesota Wild ML +105 / New Jersey Devils ML +125 / New York Knicks ML +700 / Nashville Predators ML +115 / Portland Trail Blazers ML +110",
+    "type": "parlay",
+    "result": "PENDING"
   }
 ]
